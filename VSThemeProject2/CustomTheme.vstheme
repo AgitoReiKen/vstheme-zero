@@ -7830,7 +7830,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Track Changes after save">
-        <Background Type="CT_RAW" Source="FF047857" />
+        <Background Type="CT_RAW" Source="FF53AC7F" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Bookmark (Disabled)">
