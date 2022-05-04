@@ -6401,11 +6401,11 @@
         <Background Type="CT_RAW" Source="FF3399FF" />
       </Color>
       <Color Name="TextBoxBackground">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF101216" />
         <Foreground Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="TextBoxBorder">
-        <Background Type="CT_RAW" Source="FFDBDDE6" />
+        <Background Type="CT_INVALID" Source="FFDBDDE6" />
       </Color>
       <Color Name="SelectedCategoryTab">
         <Background Type="CT_RAW" Source="FF3399FF" />
