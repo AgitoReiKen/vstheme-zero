@@ -4361,10 +4361,10 @@
         <Background Type="CT_RAW" Source="FFCBCBDB" />
       </Color>
       <Color Name="CommandBarToolBarSeparator">
-        <Background Type="CT_RAW" Source="FFBBBB00" />
+        <Background Type="CT_RAW" Source="FF2f3541" />
       </Color>
       <Color Name="CommandBarToolBarSeparatorHighlight">
-        <Background Type="CT_RAW" Source="FF00BBBB" />
+        <Background Type="CT_RAW" Source="FF2f3541" />
       </Color>
       <Color Name="CommandBarFrameControlHover">
         <Background Type="CT_RAW" Source="FF101216" />
