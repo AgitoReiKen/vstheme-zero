@@ -3256,7 +3256,7 @@
         <Background Type="CT_RAW" Source="FFF0F0F0" />
       </Color>
       <Color Name="TitleBarActiveBorder">
-        <Background Type="CT_RAW" Source="FFF0F0F0" />
+        <Background Type="CT_INVALID" Source="FF00F0F0" />
       </Color>
       <Color Name="BrandedUIBorder">
         <Background Type="CT_RAW" Source="FF101216" />
@@ -3481,16 +3481,16 @@
         <Background Type="CT_RAW" Source="FF101216" />
       </Color>
       <Color Name="TitleBarActiveGradientBegin">
-        <Background Type="CT_RAW" Source="FF101216" />
+        <Background Type="CT_RAW" Source="FF16191f" />
       </Color>
       <Color Name="TitleBarActiveGradientEnd">
-        <Background Type="CT_RAW" Source="FF101216" />
+        <Background Type="CT_RAW" Source="FF16191f" />
       </Color>
       <Color Name="TitleBarActiveGradientMiddle1">
-        <Background Type="CT_RAW" Source="FF101216" />
+        <Background Type="CT_INVALID" Source="FF16191f" />
       </Color>
       <Color Name="TitleBarActiveGradientMiddle2">
-        <Background Type="CT_RAW" Source="FF101216" />
+        <Background Type="CT_INVALID" Source="FF16191f" />
       </Color>
       <Color Name="StatusBarBuilding">
         <Background Type="CT_RAW" Source="FF16191F" />
@@ -4660,7 +4660,7 @@
         <Background Type="CT_RAW" Source="FF16191D" />
       </Color>
       <Color Name="DesignerSelectionDots">
-        <Background Type="CT_RAW" Source="FF46464A" />
+        <Background Type="CT_RAW" Source="FF545f74" />
       </Color>
       <Color Name="DesignerTray">
         <Background Type="CT_RAW" Source="FF3F3F46" />
@@ -4798,7 +4798,7 @@
         <Background Type="CT_RAW" Source="FFEFEBEF" />
       </Color>
       <Color Name="FileTabSecondarySeparator">
-        <Background Type="CT_RAW" Source="FF46464A" />
+        <Background Type="CT_RAW" Source="FF545f74" />
       </Color>
       <Color Name="FormSmartTagActionTagBorder">
         <Background Type="CT_RAW" Source="FF000000" />
