@@ -7472,7 +7472,7 @@
         <Background Type="CT_INVALID" Source="FFCCCEDB" />
       </Color>
 	  <Color Name="ButtonDisabledBorder">
-        <Background Type="CT_RAW" Source="FFCCCEDB" />
+        <Background Type="CT_INVALID" Source="FFCCCEDB" />
       </Color>
       <Color Name="CallToActionButtonMouseOver">
         <Background Type="CT_RAW" Source="FF52B0EF" />
