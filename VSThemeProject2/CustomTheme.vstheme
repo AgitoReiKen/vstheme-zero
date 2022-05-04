@@ -7430,27 +7430,56 @@
     </Category>
     <Category Name="TeamExplorer" GUID="{4aff231b-f28a-44f0-a66b-1beeb17cb920}">
       <Color Name="Button">
-        <Background Type="CT_RAW" Source="FFECECF0" />
-        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF16191f" />
+        <Foreground Type="CT_RAW" Source="FF8792a8" />
       </Color>
       <Color Name="ButtonPressed">
+        <Background Type="CT_RAW" Source="FF232730" />
+        <Foreground Type="CT_RAW" Source="FF8792a8" />
+      </Color>
+      <Color Name="ButtonDisabled">
+	     <Background Type="CT_RAW" Source="FF13161B" />
+	     <Foreground Type="CT_RAW" Source="FF545f74" />
+      </Color>
+	  <Color Name="ButtonBorder">
+        <Background Type="CT_INVALID" Source="FFC7C9D8" />
+      </Color>
+      <Color Name="ButtonPressedBorder">
+        <Background Type="CT_INVALID" Source="FF1C97EA" />
+      </Color>
+      <Color Name="CallToActionButtonBorder">
         <Background Type="CT_RAW" Source="FF007ACC" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="CallToActionButtonDisabledBorder">
+        <Background Type="CT_RAW" Source="FFCCCEDB" />
+      </Color>
+      <Color Name="CallToActionButtonPressedBorder">
+        <Background Type="CT_RAW" Source="FF0E6198" />
       </Color>
       <Color Name="CallToActionButtonPressed">
         <Background Type="CT_RAW" Source="FF0E6198" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="ButtonMouseOver">
-        <Background Type="CT_RAW" Source="FFC9DEF5" />
-        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+        <Background Type="CT_RAW" Source="FF2f3541" />
+        <Foreground Type="CT_RAW" Source="FF8792a8" />
+      </Color>
+	  <Color Name="CallToActionButton">
+        <Background Type="CT_RAW" Source="FF007ACC" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="ButtonMouseOverBorder">
+        <Background Type="CT_INVALID" Source="FFCCCEDB" />
+      </Color>
+	  <Color Name="ButtonDisabledBorder">
+        <Background Type="CT_RAW" Source="FFCCCEDB" />
       </Color>
       <Color Name="CallToActionButtonMouseOver">
         <Background Type="CT_RAW" Source="FF52B0EF" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="TextBoxBorder">
-        <Background Type="CT_RAW" Source="FFDBDDE6" />
+        <Background Type="CT_RAW" Source="FF232730" />
       </Color>
       <Color Name="ActionLinkItem">
         <Foreground Type="CT_RAW" Source="FF0E70C0" />
@@ -7484,25 +7513,14 @@
       </Color>
       <Color Name="TETileListBackgroundSelected">
         <Background Type="CT_RAW" Source="FF3399FF" />
-      </Color>
-      <Color Name="ButtonDisabled">
-        <Background Type="CT_RAW" Source="FFF5F5F5" />
-        <Foreground Type="CT_RAW" Source="FFA2A4A5" />
-      </Color>
+      </Color> 
       <Color Name="CallToActionButtonDisabled">
         <Background Type="CT_RAW" Source="FFF5F5F5" />
         <Foreground Type="CT_RAW" Source="FFA2A4A5" />
       </Color>
       <Color Name="TextBox">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
-        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
-      </Color>
-      <Color Name="CallToActionButton">
-        <Background Type="CT_RAW" Source="FF007ACC" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
-      </Color>
-      <Color Name="ButtonMouseOverBorder">
-        <Background Type="CT_RAW" Source="FFCCCEDB" />
+        <Background Type="CT_RAW" Source="FF101216" />
+        <Foreground Type="CT_RAW" Source="FF8792a8" />
       </Color>
       <Color Name="CallToActionButtonMouseOverBorder">
         <Background Type="CT_RAW" Source="FF52B0EF" />
@@ -7530,24 +7548,6 @@
       </Color>
       <Color Name="TextBoxHintText">
         <Background Type="CT_RAW" Source="FF717171" />
-      </Color>
-      <Color Name="ButtonDisabledBorder">
-        <Background Type="CT_RAW" Source="FFCCCEDB" />
-      </Color>
-      <Color Name="ButtonBorder">
-        <Background Type="CT_RAW" Source="FFC7C9D8" />
-      </Color>
-      <Color Name="ButtonPressedBorder">
-        <Background Type="CT_RAW" Source="FF1C97EA" />
-      </Color>
-      <Color Name="CallToActionButtonBorder">
-        <Background Type="CT_RAW" Source="FF007ACC" />
-      </Color>
-      <Color Name="CallToActionButtonDisabledBorder">
-        <Background Type="CT_RAW" Source="FFCCCEDB" />
-      </Color>
-      <Color Name="CallToActionButtonPressedBorder">
-        <Background Type="CT_RAW" Source="FF0E6198" />
       </Color>
       <Color Name="InnerTabHeader">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
