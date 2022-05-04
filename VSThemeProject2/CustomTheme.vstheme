@@ -902,10 +902,10 @@
         <Foreground Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="NetworkCacheSelectedText">
-        <Foreground Type="CT_RAW" Source="FFFEFCC8" />
+        <Foreground Type="CT_RAW" Source="FFFEF3C7" />
       </Color>
       <Color Name="NetworkCacheBlurText">
-        <Foreground Type="CT_RAW" Source="FFFEFCC8" />
+        <Foreground Type="CT_RAW" Source="FFFEF3C7" />
       </Color>
       <Color Name="NetworkErrorSelectedText">
         <Foreground Type="CT_RAW" Source="FFE61E27" />
@@ -926,10 +926,10 @@
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="NetworkGridSecondaryHighlighted">
-        <Foreground Type="CT_RAW" Source="FFFEFCC8" />
+        <Foreground Type="CT_RAW" Source="FFFEF3C7" />
       </Color>
       <Color Name="NetworkGridSecondarySelected">
-        <Foreground Type="CT_RAW" Source="FFFEFCC8" />
+        <Foreground Type="CT_RAW" Source="FFFEF3C7" />
       </Color>
       <Color Name="NetworkHeaderBackground">
         <Background Type="CT_RAW" Source="FF2D2D30" />
@@ -3061,7 +3061,7 @@
         <Background Type="CT_RAW" Source="FFCBCBDB" />
       </Color>
       <Color Name="MainWindowCloudEnvironmentActive">
-        <Background Type="CT_RAW" Source="FFFEFCC8" />
+        <Background Type="CT_RAW" Source="FFFEF3C7" />
         <Foreground Type="CT_RAW" Source="FFCBCBDB" />
       </Color>
       <Color Name="MainWindowCloudEnvironmentInactive">
@@ -4897,7 +4897,7 @@
         <Background Type="CT_RAW" Source="FF656565" />
       </Color>
       <Color Name="InfoBackground">
-        <Background Type="CT_RAW" Source="FFFEFCC8" />
+        <Background Type="CT_RAW" Source="FFFEF3C7" />
       </Color>
       <Color Name="InfoText">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
@@ -5134,10 +5134,10 @@
         <Background Type="CT_RAW" Source="66FFFFFF" />
       </Color>
       <Color Name="ScreenTipBackground">
-        <Background Type="CT_RAW" Source="FFFEFCC8" />
+        <Background Type="CT_RAW" Source="FFFEF3C7" />
       </Color>
       <Color Name="ScreenTipBorder">
-        <Background Type="CT_RAW" Source="FFFEFCC8" />
+        <Background Type="CT_RAW" Source="FFFEF3C7" />
       </Color>
       <Color Name="ScreenTipText">
         <Background Type="CT_RAW" Source="FF16191D" />
@@ -5173,7 +5173,7 @@
         <Background Type="CT_RAW" Source="FFE5C365" />
       </Color>
       <Color Name="SmartTagHoverFill">
-        <Background Type="CT_RAW" Source="FFFEFCC8" />
+        <Background Type="CT_RAW" Source="FFFEF3C7" />
       </Color>
       <Color Name="SmartTagHoverText">
         <Background Type="CT_RAW" Source="FF000000" />
@@ -5793,10 +5793,10 @@
         <Foreground Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="NetworkCacheSelectedText">
-        <Foreground Type="CT_RAW" Source="FFFEFCC8" />
+        <Foreground Type="CT_RAW" Source="FFFEF3C7" />
       </Color>
       <Color Name="NetworkCacheBlurText">
-        <Foreground Type="CT_RAW" Source="FFFEFCC8" />
+        <Foreground Type="CT_RAW" Source="FFFEF3C7" />
       </Color>
       <Color Name="NetworkErrorSelectedText">
         <Foreground Type="CT_RAW" Source="FFE61E27" />
@@ -5817,10 +5817,10 @@
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="NetworkGridSecondaryHighlighted">
-        <Foreground Type="CT_RAW" Source="FFFEFCC8" />
+        <Foreground Type="CT_RAW" Source="FFFEF3C7" />
       </Color>
       <Color Name="NetworkGridSecondarySelected">
-        <Foreground Type="CT_RAW" Source="FFFEFCC8" />
+        <Foreground Type="CT_RAW" Source="FFFEF3C7" />
       </Color>
       <Color Name="NetworkHeaderBackground">
         <Background Type="CT_RAW" Source="FF2D2D30" />
@@ -5944,7 +5944,7 @@
         <Foreground Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="InfoBarBackground">
-        <Background Type="CT_RAW" Source="FFFEFCC8" />
+        <Background Type="CT_RAW" Source="FFFEF3C7" />
         <Foreground Type="CT_RAW" Source="FFCBCBDB" />
       </Color>
       <Color Name="Hyperlink">
@@ -5980,13 +5980,13 @@
         <Background Type="CT_RAW" Source="FF0E70C0" />
       </Color>
       <Color Name="CloseButtonBorder">
-        <Background Type="CT_RAW" Source="FFFEFCC8" />
+        <Background Type="CT_RAW" Source="FFFEF3C7" />
       </Color>
       <Color Name="CloseButtonDown">
-        <Background Type="CT_RAW" Source="FFFEFCC8" />
+        <Background Type="CT_RAW" Source="FFFEF3C7" />
       </Color>
       <Color Name="CloseButtonDownBorder">
-        <Background Type="CT_RAW" Source="FFFEFCC8" />
+        <Background Type="CT_RAW" Source="FFFEF3C7" />
       </Color>
       <Color Name="CloseButtonGlyph">
         <Background Type="CT_RAW" Source="FF6A6A6A" />
@@ -7055,7 +7055,7 @@
         <Foreground Type="CT_RAW" Source="FF84CEFF" />
       </Color>
       <Color Name="UserConsent">
-        <Background Type="CT_RAW" Source="FFFEFCC8" />
+        <Background Type="CT_RAW" Source="FFFEF3C7" />
       </Color>
       <Color Name="VideoRSSItemHover">
         <Background Type="CT_RAW" Source="FF3E3E40" />
@@ -8449,7 +8449,7 @@
         <Background Type="CT_RAW" Source="FF60A5FA" />
       </Color>
       <Color Name="ErrorBackground">
-        <Background Type="CT_RAW" Source="FFFEFCC8" />
+        <Background Type="CT_RAW" Source="FFFEF3C7" />
       </Color>
       <Color Name="IDCardMinimalModeInactiveText">
         <Background Type="CT_RAW" Source="FF656565" />
@@ -8915,7 +8915,7 @@
       </Color>
       <Color Name="Console Warning Text">
         <Background Type="CT_RAW" Source="FF2D2D30" />
-        <Foreground Type="CT_RAW" Source="FFFEFCC8" />
+        <Foreground Type="CT_RAW" Source="FFFEF3C7" />
       </Color>
     </Category>
     <Category Name="WelcomeExperience" GUID="{df76799d-28de-4975-81af-3357270f57eb}">
@@ -9061,7 +9061,7 @@
         <Background Type="CT_RAW" Source="FF6A6A75" />
       </Color>
       <Color Name="InvalidControl">
-        <Background Type="CT_RAW" Source="FFFEFCC8" />
+        <Background Type="CT_RAW" Source="FFFEF3C7" />
         <Foreground Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
       <Color Name="InvalidControlBorder">
