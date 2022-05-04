@@ -46,6 +46,7 @@ namespace Namespace  {
 			{
 
 			};
+			constexpr int x = 0x1E / 255;
 
 			"\n";
 			"nnn\n";
