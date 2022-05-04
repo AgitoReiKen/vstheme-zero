@@ -8359,7 +8359,7 @@
         <Background Type="CT_RAW" Source="FFCBCBDB" />
       </Color>
       <Color Name="SelectedItemInactive">
-        <Background Type="CT_RAW" Source="FF101216" />
+        <Background Type="CT_RAW" Source="FF16191D" />
         <Foreground Type="CT_RAW" Source="FFCBCBDB" />
       </Color>
       <Color Name="HighlightedSpan">
@@ -8367,7 +8367,7 @@
         <Foreground Type="CT_RAW" Source="FFCBCBDB" />
       </Color>
       <Color Name="SelectedItemActive">
-        <Background Type="CT_RAW" Source="FF101216" />
+        <Background Type="CT_RAW" Source="FF16191D" />
         <Foreground Type="CT_RAW" Source="FFCBCBDB" />
       </Color>
       <Color Name="Background">
@@ -8375,7 +8375,7 @@
         <Foreground Type="CT_RAW" Source="FFCBCBDB" />
       </Color>
       <Color Name="FocusVisualBorder">
-        <Background Type="CT_RAW" Source="FF4C6387" />
+        <Background Type="CT_INVALID" Source="FF4C6387" />
       </Color>
       <Color Name="SelectedItemInactiveGlyph">
         <Background Type="CT_RAW" Source="FFCBCBDB" />
