@@ -55,17 +55,18 @@ namespace Namespace  {
 			this->Method();
 			this->Property;
 		}
-	};
-
-	auto __ = new char('\000');
+	}; 
 }
 
 
 Namespace::Class::Load(x);
 int main(int x, char** args, ...)  {
-	 
-	Namespace::Derived
+	
+	Namespace::
+	x = x + 1;
 	auto newClass = Namespace::Class();
 	void* null = std::nullptr_t;
+	auto __ = new char('\000');
+	auto local = int(1);
 	newClass.Load();
 }

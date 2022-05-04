@@ -1875,7 +1875,7 @@
       </Color>
       <Color Name="Operator">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF374151" />
+        <Foreground Type="CT_RAW" Source="FF9CA3AF" />
       </Color>
       <Color Name="HTML Tag Delimiter">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1967,7 +1967,7 @@
       </Color>
       <Color Name="Preprocessor Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF374151" />
+        <Foreground Type="CT_RAW" Source="FF4B5563" />
       </Color>
       <Color Name="CSS Property Value">
         <Background Type="CT_RAW" Source="FF181B20" />
