@@ -24,7 +24,6 @@ namespace Namespace  {
 	 
 	public:
 		Class() {};
-
 		MACRO(x, y);
 		bool Load() {
 			for 
@@ -34,7 +33,7 @@ namespace Namespace  {
 			int i3 = (int)'\001';
 			auto* chars = "Chars\n";
 			auto* chars = "12321";
-			if (i != 0 || i == 1) {
+			if (i != 0 || i == 1 && -1) {
 				i++;
 				i--; 
 			}
