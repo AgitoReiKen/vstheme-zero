@@ -8730,7 +8730,7 @@
         <Background Type="CT_RAW" Source="FF16191D" />
       </Color>
       <Color Name="NotificationSelectedBackground">
-        <Background Type="CT_RAW" Source="FFE7E8EC" />
+        <Background Type="CT_RAW" Source="FF13161B" />
       </Color>
     </Category>
     <Category Name="VersionControl" GUID="{6be84f44-74e4-4e5f-aee9-1b930f431375}">
