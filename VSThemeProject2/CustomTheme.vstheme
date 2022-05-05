@@ -5424,8 +5424,8 @@
         <Foreground Type="CT_RAW" Source="FF8792a8" />
       </Color>
       <Color Name="Collapsible Text (Expanded)">
-        <Background Type="CT_INVALID" Source="FF00FF00" />
-        <Foreground Type="CT_INVALID" Source="FFFF0000" />
+        <Background Type="CT_RAW" Source="FF0000FF" />
+        <Foreground Type="CT_RAW" Source="FF0000FF" />
       </Color>
       <Color Name="outlining.collapsehintadornment">
         <Background Type="CT_RAW" Source="FF232323" />
