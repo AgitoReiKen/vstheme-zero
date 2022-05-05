@@ -27,6 +27,7 @@ namespace Namespace  {
 
 		MACRO(x, y);
 		bool Load() {
+			for 
 
 			int i1 = 1234567890;
 			int i2 = 1234567890ul;
@@ -62,7 +63,6 @@ namespace Namespace  {
 Namespace::Class::Load(x);
 int main(int x, char** args, ...)  {
 	
-	Namespace::
 	x = x + 1;
 	auto newClass = Namespace::Class();
 	void* null = std::nullptr_t;

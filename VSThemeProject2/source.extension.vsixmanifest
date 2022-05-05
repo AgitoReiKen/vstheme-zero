@@ -4,6 +4,7 @@
         <Identity Id="VSThemeProject2.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="1.0" Language="en-US" Publisher="rei" />
         <DisplayName>VSThemeProject2</DisplayName>
         <Description xml:space="preserve">VSTheme project.</Description>
+        <Preview>true</Preview>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
