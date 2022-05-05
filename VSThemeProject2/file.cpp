@@ -4,7 +4,7 @@
 struct SynProstitutkiGalimoy;
 
 typedef SynProstitutkiGalimoy You;
-template<typename T, Typename X = std::nullptr_t>
+template<typename T, typename X = std::nullptr_t>
 X Template(T* x) {
 	return &x;
 }
@@ -64,7 +64,7 @@ Namespace::Class::Load(x);
 int main(int x, char** args, ...)  {
 	
 	x = x + 1;
-	auto newClass = Namespace::Class();
+	Namespace::Class newClass = Namespace::Class();
 	void* null = std::nullptr_t;
 	auto __ = new char('\000');
 	auto local = int(1);

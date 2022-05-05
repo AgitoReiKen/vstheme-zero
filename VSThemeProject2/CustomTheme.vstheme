@@ -5424,8 +5424,8 @@
         <Foreground Type="CT_RAW" Source="FF8792a8" />
       </Color>
       <Color Name="Collapsible Text (Expanded)">
-        <Background Type="CT_RAW" Source="FF00FF00" />
-        <Foreground Type="CT_RAW" Source="FFFF0000" />
+        <Background Type="CT_INVALID" Source="FF00FF00" />
+        <Foreground Type="CT_INVALID" Source="FFFF0000" />
       </Color>
       <Color Name="outlining.collapsehintadornment">
         <Background Type="CT_RAW" Source="FF232323" />
@@ -7772,8 +7772,8 @@
         <Foreground Type="CT_RAW" Source="FF464B52" />
       </Color>
     </Category>
-    <Category Name="Text Editor Text Marker Items" GUID="{ff349800-ea43-46c1-8c98-878e78f46502}">
-      <Color Name="Collapsible Text (Collapsed)">
+    <Category Name="Text Editor Text Marker Items" GUID="{ff349800-ea43-46c1-8c98-878e78f46502}"> 
+	  <Color Name="Collapsible Text (Collapsed)">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF232730" />
       </Color>
