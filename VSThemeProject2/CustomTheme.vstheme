@@ -4459,7 +4459,7 @@
 				<Background Type="CT_RAW" Source="00FFFFFF" />
 			</Color>
 			<Color Name="CommandBarSelectedBorder">
-				<Background Type="CT_RAW" Source="FF00FFFF" />
+				<Background Type="CT_RAW" Source="FF232730" />
 			</Color>
 			<Color Name="AccentBorder">
 				<Background Type="CT_RAW" Source="FF232730" />
