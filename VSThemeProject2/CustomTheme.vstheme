@@ -7426,6 +7426,18 @@
       </Color>
     </Category>
     <Category Name="TeamExplorer" GUID="{4aff231b-f28a-44f0-a66b-1beeb17cb920}">
+	  <Color Name="ButtonBorder">
+        <Background Type="CT_INVALID" Source="FFC7C9D8" />
+      </Color>
+      <Color Name="ButtonPressedBorder">
+        <Background Type="CT_INVALID" Source="FF1C97EA" />
+      </Color>   
+      <Color Name="ButtonMouseOverBorder">
+        <Background Type="CT_INVALID" Source="FFCCCEDB" />
+      </Color>
+	  <Color Name="ButtonDisabledBorder">
+        <Background Type="CT_INVALID" Source="FFCCCEDB" />
+      </Color>	
       <Color Name="Button">
         <Background Type="CT_RAW" Source="FF16191F" />
         <Foreground Type="CT_RAW" Source="FF8792A8" />
@@ -7442,7 +7454,7 @@
         <Background Type="CT_RAW" Source="FF007ACC" />
       </Color>
       <Color Name="CallToActionButtonDisabledBorder">
-        <Background Type="CT_RAW" Source="FFCCCEDB" />
+        <Background Type="CT_INVALID" Source="FFCCCEDB" />
       </Color>
       <Color Name="CallToActionButtonPressedBorder">
         <Background Type="CT_RAW" Source="FF0E6198" />
