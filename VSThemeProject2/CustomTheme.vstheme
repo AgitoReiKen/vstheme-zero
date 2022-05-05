@@ -6042,7 +6042,7 @@
 				<Background Type="CT_RAW" Source="FFFEF3C7" />
 			</Color>
 			<Color Name="CloseButtonGlyph">
-				<Background Type="CT_RAW" Source="FF6A6A6A" />
+				<Background Type="CT_RAW" Source="FF545f74" />
 			</Color>
 		</Category>
 		<Category Name="InformationBadge" GUID="{63f9718c-889b-4814-a3b4-6e81d14f1156}">
