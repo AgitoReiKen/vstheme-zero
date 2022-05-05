@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="VSThemeProject2 (9)" GUID="{e6455366-332f-497e-ba56-f245302de473}" BaseGUID="{575628dd-e4dc-452b-bf6a-6b50d63837d6}">
+  <Theme Name="VSThemeProject2 (11)" GUID="{dbb72263-c257-464a-8d5c-90c08cf129ae}" BaseGUID="{575628dd-e4dc-452b-bf6a-6b50d63837d6}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Chevron">
         <Foreground Type="CT_RAW" Source="FF101216" />
@@ -1181,7 +1181,7 @@
         <Background Type="CT_RAW" Source="FF101216" />
       </Color>
       <Color Name="TextBoxBorderFocused">
-        <Background Type="CT_RAW" Source="FF1c2027" />
+        <Background Type="CT_RAW" Source="FF1C2027" />
       </Color>
       <Color Name="ComboBoxListItemBackgroundHover">
         <Background Type="CT_RAW" Source="FF16191F" />
@@ -1975,10 +1975,10 @@
       </Color>
       <Color Name="outlining.square">
         <Background Type="CT_RAW" Source="FF16191F" />
-        <Foreground Type="CT_RAW" Source="FF5A5A5A" />
+        <Foreground Type="CT_RAW" Source="FF545f74" />
       </Color>
       <Color Name="outlining.collapsehintadornment">
-        <Background Type="CT_RAW" Source="FF101216" />
+        <Background Type="CT_RAW" Source="FF13161B" />
         <Foreground Type="CT_RAW" Source="FFCBCBDB" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedReference">
@@ -1995,7 +1995,7 @@
       </Color>
       <Color Name="outlining.verticalrule">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF5A5A5A" />
+        <Foreground Type="CT_RAW" Source="FF545f74" />
       </Color>
       <Color Name="OverviewMarginCaret">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2378,7 +2378,7 @@
         <Foreground Type="CT_RAW" Source="FF008A00" />
       </Color>
       <Color Name="RoslynActiveStatementTag">
-        <Background Type="CT_RAW" Source="FF5A5A5A" />
+        <Background Type="CT_RAW" Source="FF545f74" />
         <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="Edit and Continue">
@@ -2749,6 +2749,70 @@
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF5F95FA" />
       </Color>
+      <Color Name="quickfix_format_hint_dimmed">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="VA Column Indicator">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="VA Current Line">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="VA Variable">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="VA Method">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="VA Class">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="VA Macro">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="VA Enum Member">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="VA Namespace">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="VA Brace Matching">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="VA Brace Error">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="VA Find Reference">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="VA Find Reference (Modified)">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="VA Find Result">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="VA Hashtag">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="MarkerFormatDefinition/VASourceLinks">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
     </Category>
     <Category Name="CpuUsageTool" GUID="{02071ec8-0cf0-4822-af30-9f001537e7eb}">
       <Color Name="CallerCalleeFunctionGroupBackground">
@@ -3028,7 +3092,7 @@
         <Background Type="CT_RAW" Source="FF8E562E" />
       </Color>
       <Color Name="VizSurfaceGreen">
-        <Background Type="CT_RAW" Source="FF107C10" />
+        <Background Type="CT_RAW" Source="FF53AC7F" />
       </Color>
       <Color Name="VizSurfacePlum">
         <Background Type="CT_RAW" Source="FF5C2E91" />
@@ -4764,9 +4828,6 @@
       <Color Name="FileTabDocumentBorderHighlight">
         <Background Type="CT_RAW" Source="FF007ACC" />
       </Color>
-	  <Color Name="FileTabDocumentBorderBackground">
-        <Background Type="CT_INVALID" Source="FFFF6CBE" />
-      </Color>
       <Color Name="FileTabDocumentBorderShadow">
         <Background Type="CT_RAW" Source="FF007ACC" />
       </Color>
@@ -5424,7 +5485,7 @@
         <Foreground Type="CT_RAW" Source="FF8792A8" />
       </Color>
       <Color Name="Collapsible Text (Expanded)">
-        <Background Type="CT_RAW" Source="FF2f3541" />
+        <Background Type="CT_RAW" Source="FF2F3541" />
         <Foreground Type="CT_RAW" Source="FF8792A8" />
       </Color>
       <Color Name="outlining.collapsehintadornment">
@@ -7429,18 +7490,6 @@
       </Color>
     </Category>
     <Category Name="TeamExplorer" GUID="{4aff231b-f28a-44f0-a66b-1beeb17cb920}">
-	  <Color Name="ButtonBorder">
-        <Background Type="CT_INVALID" Source="FFC7C9D8" />
-      </Color>
-      <Color Name="ButtonPressedBorder">
-        <Background Type="CT_INVALID" Source="FF1C97EA" />
-      </Color>   
-      <Color Name="ButtonMouseOverBorder">
-        <Background Type="CT_INVALID" Source="FFCCCEDB" />
-      </Color>
-	  <Color Name="ButtonDisabledBorder">
-        <Background Type="CT_INVALID" Source="FFCCCEDB" />
-      </Color>	
       <Color Name="Button">
         <Background Type="CT_RAW" Source="FF16191F" />
         <Foreground Type="CT_RAW" Source="FF8792A8" />
@@ -7455,9 +7504,6 @@
       </Color>
       <Color Name="CallToActionButtonBorder">
         <Background Type="CT_RAW" Source="FF007ACC" />
-      </Color>
-      <Color Name="CallToActionButtonDisabledBorder">
-        <Background Type="CT_INVALID" Source="FFCCCEDB" />
       </Color>
       <Color Name="CallToActionButtonPressedBorder">
         <Background Type="CT_RAW" Source="FF0E6198" />
@@ -7777,7 +7823,7 @@
         <Foreground Type="CT_RAW" Source="FF232730" />
       </Color>
       <Color Name="Read-Only Region">
-        <Background Type="CT_RAW" Source="FF5A5A5A" />
+        <Background Type="CT_RAW" Source="FF545f74" />
       </Color>
       <Color Name="Task List Shortcut">
         <Background Type="CT_RAW" Source="FF5380AC" />
@@ -8187,7 +8233,7 @@
       </Color>
     </Category>
     <Category Name="TreeView" GUID="{92ecf08e-8b13-4cf4-99e9-ae2692382185}">
-	  <Color Name="FocusVisualBorder">
+      <Color Name="FocusVisualBorder">
         <Background Type="CT_RAW" Source="FF16191F" />
       </Color>
       <Color Name="DragOverItem">
