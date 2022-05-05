@@ -5997,6 +5997,9 @@
 				<Background Type="CT_RAW" Source="FF101216" />
 				<Foreground Type="CT_RAW" Source="FFCBCBCB" />
 			</Color>
+			<Color Name="InfoBarBorder">
+				<Background Type="CT_RAW" Source="FF101216" /> 
+			</Color>
 			<Color Name="Hyperlink">
 				<Foreground Type="CT_RAW" Source="FFCBCBDB" />
 			</Color>
