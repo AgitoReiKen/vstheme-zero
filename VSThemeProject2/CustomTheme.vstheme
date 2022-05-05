@@ -7858,7 +7858,7 @@
         <Foreground Type="CT_RAW" Source="FFD7BA7D" />
       </Color>
       <Color Name="Track Changes before save">
-        <Background Type="CT_RAW" Source="FFAC8053" />
+        <Background Type="CT_RAW" Source="FFAE8C00" />
       </Color>
       <Color Name="Track Changes after save">
         <Background Type="CT_RAW" Source="FF53AC7F" />
