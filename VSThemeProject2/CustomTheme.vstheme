@@ -7810,7 +7810,7 @@
 				<Foreground Type="CT_RAW" Source="FFccd0da" />
 			</Color>
 			<Color Name="Selected Text">
-				<Background Type="CT_RAW" Source="FF2f3541" />
+				<Background Type="CT_RAW" Source="FF424A5A" />
 				<Foreground Type="CT_INVALID" Source="00000000" />
 			</Color>
 			<Color Name="Inactive Selected Text">
