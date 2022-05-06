@@ -7804,7 +7804,7 @@
     <Category Name="Text Editor Text Manager Items" GUID="{58e96763-1d3b-4e05-b6ba-ff7115fd0b7b}">
       <Color Name="Plain Text">
         <Background Type="CT_RAW" Source="FF16191F" />
-        <Foreground Type="CT_RAW" Source="FF2f3541" />
+        <Foreground Type="CT_RAW" Source="FF545f74" />
       </Color>
       <Color Name="Selected Text">
         <Background Type="CT_RAW" Source="FF424A5A" />
@@ -9200,7 +9200,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Collapsible Text (Collapsed)">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Collapsible Text (Expanded)">
