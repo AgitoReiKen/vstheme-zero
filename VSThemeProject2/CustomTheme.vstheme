@@ -9,7 +9,7 @@
       </Color>
       <Color Name="H1">
         <Foreground Type="CT_RAW" Source="FF101216" />
-      </Color>
+      </Color> 
       <Color Name="NumberedListItemActive">
         <Background Type="CT_RAW" Source="FF101216" />
         <Foreground Type="CT_RAW" Source="FF16191F" />
