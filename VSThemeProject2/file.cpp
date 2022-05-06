@@ -2,7 +2,6 @@
 #include <stdio.h>
 #define MACRO(x, y)
 struct SynProstitutkiGalimoy;
-
 typedef SynProstitutkiGalimoy You;
 template<typename T, typename X = std::nullptr_t>
 X Template(T* x) {
