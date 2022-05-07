@@ -7579,7 +7579,7 @@
       </Color>
       <Color Name="TETileIconBackgroundSelected">
         <Background Type="CT_RAW" Source="FF2F3541" />
-      </Color>
+      </Color> 
       <Color Name="TETileListBackgroundMouseOver">
         <Background Type="CT_RAW" Source="FF232730" />
       </Color>
