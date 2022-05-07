@@ -4821,12 +4821,12 @@
       </Color>
       <Color Name="FileTabChannelBackground">
         <Background Type="CT_RAW" Source="FF2D2D30" />
-      </Color>
+      </Color> 
       <Color Name="FileTabDocumentBorderHighlight">
         <Background Type="CT_RAW" Source="FF007ACC" />
       </Color>
 	  <Color Name="FileTabDocumentBorderBackground">
-		<Background Type="CT_INVALID" Source="FFFF6CBE" />
+		<Background Type="CT_RAW" Source="FF101216" />
 	  </Color>
       <Color Name="FileTabDocumentBorderShadow">
         <Background Type="CT_RAW" Source="FF007ACC" />
@@ -7502,19 +7502,19 @@
     </Category>
     <Category Name="TeamExplorer" GUID="{4aff231b-f28a-44f0-a66b-1beeb17cb920}">
 		<Color Name="ButtonBorder">
-			<Background Type="CT_INVALID" Source="FFC7C9D8" />
+			<Background Type="CT_RAW" Source="FF16191F" />
 		</Color>
 		<Color Name="ButtonPressedBorder">
-			<Background Type="CT_INVALID" Source="FF1C97EA" />
+			<Background Type="CT_RAW" Source="FF232730" />
 		</Color>
 		<Color Name="ButtonMouseOverBorder">
-			<Background Type="CT_INVALID" Source="FFCCCEDB" />
+			<Background Type="CT_RAW" Source="FFCCCEDB" />
 		</Color>
 		<Color Name="ButtonDisabledBorder">
-			<Background Type="CT_INVALID" Source="FFCCCEDB" />
+			<Background Type="CT_RAW" Source="FF13161B" />
 		</Color>
 		<Color Name="CallToActionButtonDisabledBorder">
-			<Background Type="CT_INVALID" Source="FFCCCEDB" />
+			<Background Type="CT_RAW" Source="FF13161B" />
 		</Color>
       <Color Name="Button">
         <Background Type="CT_RAW" Source="FF16191F" />
@@ -7587,8 +7587,8 @@
         <Background Type="CT_RAW" Source="FF2F3541" />
       </Color>
       <Color Name="CallToActionButtonDisabled">
-        <Background Type="CT_RAW" Source="FFF5F5F5" />
-        <Foreground Type="CT_RAW" Source="FFA2A4A5" />
+        <Background Type="CT_RAW" Source="FF13161B" />
+        <Foreground Type="CT_RAW" Source="FF545F74" />
       </Color>
       <Color Name="TextBox">
         <Background Type="CT_RAW" Source="FF101216" />
