@@ -8600,7 +8600,7 @@
 				<Background Type="CT_RAW" Source="FFFFFFFF" />
 			</Color>
 			<Color Name="IndicatorBubble">
-				<Background Type="CT_RAW" Source="FFE41400" />
+				<Background Type="CT_RAW" Source="FF772222" />
 				<Foreground Type="CT_RAW" Source="FFFFFFFF" />
 			</Color>
 			<Color Name="IndicatorBubbleDebugging">
