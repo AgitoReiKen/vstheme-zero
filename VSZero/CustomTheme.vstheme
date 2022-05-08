@@ -3301,6 +3301,9 @@
 			<Color Name="ToolWindowTabBorder">
 				<Background Type="CT_RAW" Source="FF101216" />
 			</Color>
+			<Color Name="ToolWindowTabSelectedBorder">
+				<Background Type="CT_RAW" Source="FF101216" />
+			</Color>
 			<Color Name="ToolWindowTabMouseOverBorder">
 				<Background Type="CT_RAW" Source="FF101216" />
 			</Color>
