@@ -3156,6 +3156,9 @@
 			<Color Name="DocWellOverflowButtonMouseOverGlyph">
 				<Background Type="CT_RAW" Source="FFFFFFFF" />
 			</Color>
+			<Color Name="FileTabBorder">
+				<Background Type="CT_RAW" Source="FF16191F" />
+			</Color>
 			<Color Name="FileTabButtonDownInactiveGlyph">
 				<Background Type="CT_RAW" Source="FFFFFFFF" />
 			</Color>
@@ -4988,7 +4991,7 @@
 				<Background Type="CT_RAW" Source="FFFFFFFF" />
 			</Color>
 			<Color Name="MainWindowActiveNoSolutionBorder">
-				<Background Type="CT_RAW" Source="FF68217A" />
+				<Background Type="CT_RAW" Source="FF5353AC" />
 			</Color>
 			<Color Name="MainWindowButtonActiveBorder">
 				<Background Type="CT_RAW" Source="00000000" />
@@ -7640,7 +7643,7 @@
 				<Background Type="CT_RAW" Source="FF717171" />
 			</Color>
 			<Color Name="TeamExplorerHomeSCCFamilyIconFill">
-				<Background Type="CT_RAW" Source="FF68217A" />
+				<Background Type="CT_RAW" Source="FF5353AC" />
 			</Color>
 			<Color Name="TeamExplorerHomeBuildFamilyIconFill">
 				<Background Type="CT_RAW" Source="FF73828C" />
@@ -7670,7 +7673,7 @@
 				<Background Type="CT_RAW" Source="FF8792A8" />
 			</Color>
 			<Color Name="VSLogoIconFill">
-				<Background Type="CT_RAW" Source="FF68217A" />
+				<Background Type="CT_RAW" Source="FF5353AC" />
 			</Color>
 			<Color Name="VSTSLogoIconFill">
 				<Background Type="CT_RAW" Source="FF0078D4" />
