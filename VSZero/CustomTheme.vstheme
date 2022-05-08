@@ -3157,7 +3157,7 @@
 				<Background Type="CT_RAW" Source="FFFFFFFF" />
 			</Color>
 			<Color Name="FileTabBorder">
-				<Background Type="CT_RAW" Source="FF16191F" />
+				<Background Type="CT_RAW" Source="FF101216" />
 			</Color>
 			<Color Name="FileTabButtonDownInactiveGlyph">
 				<Background Type="CT_RAW" Source="FFFFFFFF" />
