@@ -1,7 +1,7 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
   <Metadata>
     <Identity Id="VSThemeZero.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="1.0" Language="en-US" Publisher="rei" />
-    <DisplayName>Zero</DisplayName>
+    <DisplayName>Zero1</DisplayName>
     <Description xml:space="preserve">0</Description>
     <Preview>true</Preview>
   </Metadata>

@@ -7857,193 +7857,7 @@
 				<Foreground Type="CT_RAW" Source="FF464B52" />
 			</Color>
 		</Category>
-		<Category Name="Text Editor Text Marker Items" GUID="{ff349800-ea43-46c1-8c98-878e78f46502}">
-			<Color Name="Collapsible Text (Collapsed)">
-				<Foreground Type="CT_RAW" Source="FF232730" />
-			</Color>
-			<Color Name="Read-Only Region">
-				<Background Type="CT_RAW" Source="FF545F74" />
-			</Color>
-			<Color Name="Task List Shortcut">
-				<Background Type="CT_RAW" Source="FF5380AC" />
-				<Foreground Type="CT_RAW" Source="FF000000" />
-			</Color>
-			<Color Name="Bookmark">
-				<Background Type="CT_RAW" Source="FFFF0051" />
-			</Color>
-			<Color Name="compiler error">
-				<Foreground Type="CT_RAW" Source="FF9BD1E1" />
-			</Color>
-			<Color Name="syntax error">
-				<Foreground Type="CT_RAW" Source="FFFC3E36" />
-			</Color>
-			<Color Name="other error">
-				<Foreground Type="CT_RAW" Source="FFCA79EC" />
-			</Color>
-			<Color Name="Current List Location">
-				<Background Type="CT_RAW" Source="FF3399FF" />
-				<Foreground Type="CT_RAW" Source="FFFFFFFF" />
-			</Color>
-			<Color Name="compiler warning">
-				<Foreground Type="CT_RAW" Source="FF95DB7D" />
-			</Color>
-			<Color Name="Code Snippet Field">
-				<Background Type="CT_RAW" Source="FF5B5B5B" />
-			</Color>
-			<Color Name="Code Snippet Field (Selected)">
-				<Background Type="CT_RAW" Source="FF462100" />
-			</Color>
-			<Color Name="Smart Tag">
-				<Foreground Type="CT_RAW" Source="FFD7BA7D" />
-			</Color>
-			<Color Name="Track Changes before save">
-				<Background Type="CT_RAW" Source="FFAC8053" />
-			</Color>
-			<Color Name="Track Changes after save">
-				<Background Type="CT_RAW" Source="FF53AC7F" />
-			</Color>
-			<Color Name="Brace Matching (Rectangle)">
-				<Background Type="CT_RAW" Source="FF0E4583" />
-			</Color>
-			<Color Name="Definition Window Background">
-				<Background Type="CT_RAW" Source="FF1E1E1E" />
-			</Color>
-			<Color Name="Definition Window Current Match">
-				<Foreground Type="CT_RAW" Source="FFD7BA7D" />
-			</Color>
-			<Color Name="Warning Lines Path">
-				<Background Type="CT_RAW" Source="FFB5CEA8" />
-				<Foreground Type="CT_RAW" Source="FF21444E" />
-			</Color>
-			<Color Name="Refactoring Background">
-				<Background Type="CT_RAW" Source="FF1E1E1E" />
-			</Color>
-			<Color Name="Code Snippet Dependent Field">
-				<Foreground Type="CT_RAW" Source="FFB6613D" />
-			</Color>
-			<Color Name="Refactoring Current Field">
-				<Background Type="CT_RAW" Source="FF507470" />
-			</Color>
-			<Color Name="Refactoring Dependent Field">
-				<Foreground Type="CT_RAW" Source="FF9B9B9B" />
-			</Color>
-			<Color Name="hinted suggestion">
-				<Foreground Type="CT_RAW" Source="FFA5A5A5" />
-			</Color>
-			<Color Name="Tracepoint - Mapped (Enabled)">
-				<Foreground Type="CT_RAW" Source="FFD7BA7D" />
-			</Color>
-			<Color Name="Tracepoint (Disabled)">
-				<Foreground Type="CT_RAW" Source="FFEA7E85" />
-			</Color>
-			<Color Name="Tracepoint - Mapped (Error)">
-				<Foreground Type="CT_RAW" Source="FFEA7E85" />
-			</Color>
-			<Color Name="Breakpoint - Advanced (Enabled)">
-				<Background Type="CT_RAW" Source="FF8C2F2F" />
-				<Foreground Type="CT_RAW" Source="FFFFFFFF" />
-			</Color>
-			<Color Name="Tracepoint (Error)">
-				<Foreground Type="CT_RAW" Source="FFD85050" />
-			</Color>
-			<Color Name="Tracepoint - Mapped (Warning)">
-				<Foreground Type="CT_RAW" Source="FF95DB7D" />
-			</Color>
-			<Color Name="Tracepoint - Advanced (Disabled)">
-				<Foreground Type="CT_RAW" Source="FFD85050" />
-			</Color>
-			<Color Name="Tracepoint - Advanced (Warning)">
-				<Foreground Type="CT_RAW" Source="FF95DB7D" />
-			</Color>
-			<Color Name="Tracepoint - Mapped (Disabled)">
-				<Foreground Type="CT_RAW" Source="FFD85050" />
-			</Color>
-			<Color Name="Tracepoint (Enabled)">
-				<Foreground Type="CT_RAW" Source="FFD7BA7D" />
-			</Color>
-			<Color Name="Breakpoint - Advanced (Warning)">
-				<Background Type="CT_RAW" Source="FF8C2F2F" />
-				<Foreground Type="CT_RAW" Source="FFFFFFFF" />
-			</Color>
-			<Color Name="Breakpoint - Mapped (Warning)">
-				<Background Type="CT_RAW" Source="FF8C2F2F" />
-				<Foreground Type="CT_RAW" Source="FFFFFFFF" />
-			</Color>
-			<Color Name="Breakpoint - Mapped (Error)">
-				<Background Type="CT_RAW" Source="FF8C2F2F" />
-				<Foreground Type="CT_RAW" Source="FFFFDBA3" />
-			</Color>
-			<Color Name="Breakpoint - Advanced (Error)">
-				<Background Type="CT_RAW" Source="FF8C2F2F" />
-				<Foreground Type="CT_RAW" Source="FFFFDBA3" />
-			</Color>
-			<Color Name="Current Statement">
-				<Background Type="CT_RAW" Source="FFEFF284" />
-				<Foreground Type="CT_RAW" Source="FF000000" />
-			</Color>
-			<Color Name="Executing Thread IP">
-				<Background Type="CT_RAW" Source="FFD7BA7C" />
-				<Foreground Type="CT_RAW" Source="FF000000" />
-			</Color>
-			<Color Name="Current Statement (new context)">
-				<Foreground Type="CT_RAW" Source="FFEA7E5F" />
-			</Color>
-			<Color Name="Breakpoint (Disabled)">
-				<Foreground Type="CT_RAW" Source="FFAEAEAE" />
-			</Color>
-			<Color Name="Breakpoint (Error)">
-				<Background Type="CT_RAW" Source="FF8C2F2F" />
-				<Foreground Type="CT_RAW" Source="FFFFDBA3" />
-			</Color>
-			<Color Name="Tracepoint - Advanced (Error)">
-				<Foreground Type="CT_RAW" Source="FFEA7E5F" />
-			</Color>
-			<Color Name="Breakpoint (Warning)">
-				<Background Type="CT_RAW" Source="FF8C2F2F" />
-				<Foreground Type="CT_RAW" Source="FFFFFFFF" />
-			</Color>
-			<Color Name="Coverage Touched Area">
-				<Background Type="CT_RAW" Source="FF9BD1E1" />
-				<Foreground Type="CT_RAW" Source="FF000000" />
-			</Color>
-			<Color Name="Coverage Not Touched Area">
-				<Background Type="CT_RAW" Source="FFEDE0D1" />
-				<Foreground Type="CT_RAW" Source="FF000000" />
-			</Color>
-			<Color Name="Breakpoint - Selected">
-				<Foreground Type="CT_RAW" Source="FF888888" />
-			</Color>
-			<Color Name="Coverage Partially Touched Area">
-				<Background Type="CT_RAW" Source="FFB4B6CB" />
-				<Foreground Type="CT_RAW" Source="FF000000" />
-			</Color>
-			<Color Name="Breakpoint (Enabled)">
-				<Background Type="CT_RAW" Source="FF8C2F2F" />
-				<Foreground Type="CT_RAW" Source="FFFFFFFF" />
-			</Color>
-			<Color Name="Call Return">
-				<Background Type="CT_RAW" Source="FF7CA5A0" />
-				<Foreground Type="CT_RAW" Source="FF000000" />
-			</Color>
-			<Color Name="Call Return (historical mode)">
-				<Background Type="CT_RAW" Source="FFD69D85" />
-				<Foreground Type="CT_RAW" Source="FF000000" />
-			</Color>
-			<Color Name="Current Statement (historical mode)">
-				<Background Type="CT_RAW" Source="FFB5CEA8" />
-				<Foreground Type="CT_RAW" Source="FF000000" />
-			</Color>
-			<Color Name="Tracepoint - Advanced (Enabled)">
-				<Foreground Type="CT_RAW" Source="FFEFF284" />
-			</Color>
-			<Color Name="Breakpoint - Mapped (Enabled)">
-				<Background Type="CT_RAW" Source="FF8C2F2F" />
-				<Foreground Type="CT_RAW" Source="FFFFFFFF" />
-			</Color>
-			<Color Name="Tracepoint (Warning)">
-				<Foreground Type="CT_RAW" Source="FF95DB7D" />
-			</Color> 
-		</Category>
+		 
 		<Category Name="ThemedDialog" GUID="{5e04b2a9-e443-48db-8791-63a2a71cfbd7}">
 			<Color Name="WindowPanel">
 				<Background Type="CT_RAW" Source="FF101216" />
@@ -9075,6 +8889,7 @@
 			</Color>
 		</Category>
 		<Category Name="Text Editor Text Marker Items" GUID="{ff349800-ea43-46c1-8c98-878e78f46501}">
+			 
 			<Color Name="Read-Only Region">
 				<Background Type="CT_INVALID" Source="00000000" />
 				<Foreground Type="CT_INVALID" Source="00000000" />
@@ -9221,7 +9036,7 @@
 			</Color>
 			<Color Name="Collapsible Text (Collapsed)">
 				<Background Type="CT_RAW" Source="00000000" />
-				<Foreground Type="CT_INVALID" Source="00000000" />
+				<Foreground Type="CT_RAW" Source="FF424a5a" />
 			</Color>
 			<Color Name="Collapsible Text (Expanded)">
 				<Background Type="CT_INVALID" Source="00000000" />
