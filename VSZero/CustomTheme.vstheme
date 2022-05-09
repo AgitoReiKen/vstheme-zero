@@ -2523,11 +2523,11 @@
 			</Color>
 			<Color Name="C/C++ User Keywords">
 				<Background Type="CT_INVALID" Source="00000000" />
-				<Foreground Type="CT_RAW" Source="FFAC537F" />
+				<Foreground Type="CT_RAW" Source="FFFF537F" />
 			</Color>
 			<Color Name="CppControlKeywordSyntacticTokenFormat">
 				<Background Type="CT_INVALID" Source="00000000" />
-				<Foreground Type="CT_RAW" Source="FFD8A0DF" />
+				<Foreground Type="CT_RAW" Source="FFAC537F" />
 			</Color>
 			<Color Name="CppStringEscapeCharacterSyntacticTokenFormat">
 				<Background Type="CT_INVALID" Source="00000000" />
