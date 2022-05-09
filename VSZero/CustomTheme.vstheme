@@ -8042,21 +8042,7 @@
 			</Color>
 			<Color Name="Tracepoint (Warning)">
 				<Foreground Type="CT_RAW" Source="FF95DB7D" />
-			</Color>
-			<Color Name="Collapsible Region (Collapsed)">
-				<Foreground Type="CT_RAW" Source="FF232730" />
-			</Color>
-			<Color Name="Collapsible Region">
-				<Background Type="CT_RAW" Source="FFFFFFFF" />
-				<Foreground Type="CT_RAW" Source="FFFFFFFF" />
-			</Color>
-			<Color Name="Collapsible R">
-				<Foreground Type="CT_RAW" Source="FF232730" />
-			</Color>
-			<Color Name="CollapsibleRegion">
-				<Background Type="CT_RAW" Source="FFFFFFFF" />
-				<Foreground Type="CT_RAW" Source="FFFFFFFF" />
-			</Color>
+			</Color> 
 		</Category>
 		<Category Name="ThemedDialog" GUID="{5e04b2a9-e443-48db-8791-63a2a71cfbd7}">
 			<Color Name="WindowPanel">
