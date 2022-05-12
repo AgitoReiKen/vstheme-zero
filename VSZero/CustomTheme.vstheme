@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Zero (4)" GUID="{c6312d7a-8540-4650-894e-cdeef0bb2cde}" BaseGUID="{575628dd-e4dc-452b-bf6a-6b50d63837d6}">
+  <Theme Name="Zero (123)" GUID="{c6312d7a-8540-4650-894e-cdeef0bb3cde}" BaseGUID="{575628dd-e4dc-452b-bf6a-6b50d63837d6}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Chevron">
         <Foreground Type="CT_RAW" Source="FF101216" />
