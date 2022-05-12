@@ -1810,12 +1810,12 @@
         <Foreground Type="CT_RAW" Source="FF8792A8" />
       </Color>
       <Color Name="keyword - control">
-        <Background Type="CT_RAW" Source="FF0102FF" />
-        <Foreground Type="CT_RAW" Source="FFFF0102" />
+        <Background Type="CT_INVALID" Source="FF0102FF" />
+        <Foreground Type="CT_RAW" Source="FFBF406A" />
       </Color>
       <Color Name="class name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFA657" />
+        <Foreground Type="CT_RAW" Source="FF4095BF" />
       </Color>
       <Color Name="namespace name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1843,7 +1843,7 @@
       </Color>
       <Color Name="method name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFD2A8FF" />
+        <Foreground Type="CT_RAW" Source="FFBF406A" />
       </Color>
       <Color Name="xml doc comment - name">
         <Background Type="CT_RAW" Source="FF16191F" />
@@ -1858,7 +1858,7 @@
         <Foreground Type="CT_RAW" Source="FFCCD0DA" />
       </Color>
       <Color Name="brace matching">
-        <Background Type="CT_RAW" Source="FF3C426A" />
+        <Background Type="CT_RAW" Source="FF232730" />
         <Foreground Type="CT_RAW" Source="FF16191F" />
       </Color>
       <Color Name="HTML Comment">
@@ -1943,7 +1943,7 @@
       </Color>
       <Color Name="constant name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFA657" />
+        <Foreground Type="CT_RAW" Source="FFFF0002" />
       </Color>
       <Color Name="enum member name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2415,7 +2415,7 @@
       </Color>
       <Color Name="extension method name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFFF0001" />
       </Color>
       <Color Name="xml doc comment - attribute quotes">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2583,7 +2583,7 @@
       </Color>
       <Color Name="CppGlobalVariableSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF62A63F" />
+        <Foreground Type="CT_RAW" Source="FF40BFAA" />
       </Color>
       <Color Name="CppLocalVariableSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2627,7 +2627,7 @@
       </Color>
       <Color Name="CppPropertySemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF0F7AD4" />
+        <Foreground Type="CT_RAW" Source="FFB98046" />
       </Color>
       <Color Name="CppEventSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7549,7 +7549,7 @@
         <Background Type="CT_RAW" Source="FF232730" />
       </Color>
       <Color Name="ButtonMouseOverBorder">
-        <Background Type="CT_RAW" Source="FFCCCEDB" />
+        <Background Type="CT_RAW" Source="FF2F3541" />
       </Color>
       <Color Name="ButtonDisabledBorder">
         <Background Type="CT_RAW" Source="FF13161B" />
@@ -8961,7 +8961,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Breakpoint - Advanced (Enabled)">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFCA333F" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Tracepoint (Error)">
@@ -8989,11 +8989,11 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Breakpoint - Advanced (Warning)">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFCA333F" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Breakpoint - Mapped (Warning)">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFCA333F" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Current Statement">
@@ -9006,14 +9006,14 @@
       </Color>
       <Color Name="Breakpoint (Disabled)">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF93252E" />
       </Color>
       <Color Name="Tracepoint - Advanced (Error)">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Breakpoint (Warning)">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFCA333F" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Coverage Touched Area">
@@ -9033,7 +9033,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Breakpoint (Enabled)">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFCA333F" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Call Return">
@@ -9053,7 +9053,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Breakpoint - Mapped (Enabled)">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFCA333F" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Tracepoint (Warning)">

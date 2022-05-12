@@ -94,14 +94,15 @@ namespace Namespace  {
 			auto* chars = "Chars\n";
 			auto* chars = "12321";
 			int i = rand();
+			i = i | 1 & 0;
 			if (i != 0 || i == 1 && -1) {
 				i++;
 				i--; 
 			}
 			switch (i1) {
-				case 0: {};
-				case 1: {};
-				default: {};
+				case 0: {	break;	};
+				case 1: {	break;	};
+				default: {	break;	};
 			}
 			__interface IInterface
 			{
@@ -135,7 +136,7 @@ int main(int x, char** args, ...)  {
 	if (a == b) {}
 	if (a + b) {};
 
-	(&a)->c;
+	a.c;
 	Namespace::Class newClass = Namespace::Class();
 	void* null = std::nullptr_t;
 	auto __ = new char('\000');
