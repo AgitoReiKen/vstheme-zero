@@ -33,9 +33,9 @@ namespace EEnum {
 };
 Enum GlobalEnum;
 Structure GlobalStructure;
-int GlobalInt;
-Enum::a;
-EEnum::a;
+int GlobalInt = 123;
+static int StaticGlobalInt = 123;
+EEnum::Type a = EEnum::a;
 __event;
 static_assert(false);
 typedef unsigned int uint;
@@ -61,17 +61,31 @@ namespace Namespace  {
 		bool operator==(Class* other) {
 			return this == other;
 		}
+		Class& operator->() {
+			return this;
+		}
+		Class* operator+(Class* Other) {
+			return this;
+		}
+		Class& operator+(Class& Other) {
+			return *this;
+		}
 		event a;
 		volatile int b;
 		inline int c;
 		__inline int d;
 		static int Static;
-		bool Load() {
+		static void StaticFunction() {
+		}
+		bool Load(void* _property, ...) {
+			_property;
+			GlobalEnum;
+			int local = 0;
 			std::regex regex("(\Java(Script)\)");
-			std::regex_match(std::string("x"), regex);
+			std::regex_match(std::string("x\n"), regex);
 			this->Prop;
 			Property;
-			int& integer = Property;
+			GlobalInt;
 			uint* uInteger = new uint(1);
 			int* ax = new int(123);
 			int i1 = 1234567890;
@@ -79,6 +93,7 @@ namespace Namespace  {
 			int i3 = (int)'\001';
 			auto* chars = "Chars\n";
 			auto* chars = "12321";
+			int i = rand();
 			if (i != 0 || i == 1 && -1) {
 				i++;
 				i--; 
@@ -114,7 +129,13 @@ int main(int x, char** args, ...)  {
 	auto = Namespace::Class::Static;
 	EEnum::Type::a;
 	EEnum::a;
+	Namespace::Class a; 
+	Namespace::Class b; 
+	if (a.operator+(b)) {}
+	if (a == b) {}
+	if (a + b) {};
 
+	(&a)->c;
 	Namespace::Class newClass = Namespace::Class();
 	void* null = std::nullptr_t;
 	auto __ = new char('\000');

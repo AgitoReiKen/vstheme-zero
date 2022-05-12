@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Zero (2)" GUID="{ded1fad9-a95a-48dc-bc0a-3735f5a43216}" BaseGUID="{575628dd-e4dc-452b-bf6a-6b50d63837d6}">
+  <Theme Name="Zero (4)" GUID="{c6312d7a-8540-4650-894e-cdeef0bb2cde}" BaseGUID="{575628dd-e4dc-452b-bf6a-6b50d63837d6}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Chevron">
         <Foreground Type="CT_RAW" Source="FF101216" />
@@ -819,7 +819,7 @@
         <Background Type="CT_RAW" Source="FFD4D4D4" />
       </Color>
       <Color Name="SnapshotTileErrorText">
-        <Foreground Type="CT_RAW" Source="FFFF0000" />
+        <Foreground Type="CT_RAW" Source="FFCA333F" />
       </Color>
       <Color Name="SnapshotTileHeader">
         <Background Type="CT_RAW" Source="FFEFEFF2" />
@@ -2019,7 +2019,7 @@
       </Color>
       <Color Name="Interactive Window Error Output">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFCA333F" />
       </Color>
       <Color Name="XML Doc Comment">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2258,7 +2258,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/CommentHighlight">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF2D4653" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="CodeAnalysisWarningSelection">
@@ -2399,7 +2399,7 @@
       </Color>
       <Color Name="operator - overloaded">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFCA333F" />
       </Color>
       <Color Name="record class name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2579,19 +2579,19 @@
       </Color>
       <Color Name="CppEnumSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF40BFAA" />
+        <Foreground Type="CT_RAW" Source="FF95A63F" />
       </Color>
       <Color Name="CppGlobalVariableSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFD4D8E0" />
+        <Foreground Type="CT_RAW" Source="FF62A63F" />
       </Color>
       <Color Name="CppLocalVariableSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF8792A8" />
+        <Foreground Type="CT_RAW" Source="FFAAB1C1" />
       </Color>
       <Color Name="CppParameterSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF8792A8" />
+        <Foreground Type="CT_RAW" Source="FF545F74" />
       </Color>
       <Color Name="CppTypeSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2615,11 +2615,11 @@
       </Color>
       <Color Name="CppMemberFieldSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF8792A8" />
+        <Foreground Type="CT_RAW" Source="FF40BFAA" />
       </Color>
       <Color Name="CppStaticMemberFunctionSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFBF406A" />
+        <Foreground Type="CT_RAW" Source="FFA24DB2" />
       </Color>
       <Color Name="CppStaticMemberFieldSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2639,7 +2639,7 @@
       </Color>
       <Color Name="CppGenericTypeSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF4EC9B0" />
+        <Foreground Type="CT_RAW" Source="FF40BFAA" />
       </Color>
       <Color Name="CppFunctionTemplateSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2667,11 +2667,11 @@
       </Color>
       <Color Name="CppOperatorSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB4B4B4" />
+        <Foreground Type="CT_RAW" Source="FF8792A8" />
       </Color>
       <Color Name="CppMemberOperatorSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFBF406A" />
+        <Foreground Type="CT_RAW" Source="FF8792A8" />
       </Color>
       <Color Name="CppNewDeleteSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2995,7 +2995,7 @@
       </Color>
       <Color Name="ChangedText">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFCA333F" />
       </Color>
     </Category>
     <Category Name="DetailsView" GUID="{a128c60e-947c-4f26-95c9-fb4b3d53547f}">
@@ -5678,7 +5678,7 @@
         <Background Type="CT_RAW" Source="FF0078D7" />
       </Color>
       <Color Name="ColorLinkInvalidHighlight">
-        <Background Type="CT_RAW" Source="FFFF0000" />
+        <Background Type="CT_RAW" Source="FFCA333F" />
       </Color>
       <Color Name="ColorLinkLiveHighlight">
         <Background Type="CT_RAW" Source="FF0078D7" />
@@ -5720,7 +5720,7 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="ColorZAxis">
-        <Background Type="CT_RAW" Source="FF0000FF" />
+        <Background Type="CT_RAW" Source="FF4095BF" />
       </Color>
       <Color Name="FocusDots">
         <Foreground Type="CT_RAW" Source="FF999999" />
@@ -5820,7 +5820,7 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="ColorXAxis">
-        <Background Type="CT_RAW" Source="FFFF0000" />
+        <Background Type="CT_RAW" Source="FFCA333F" />
       </Color>
       <Color Name="ColorYAxis">
         <Background Type="CT_RAW" Source="FF00FF00" />
@@ -5949,7 +5949,7 @@
         <Background Type="CT_RAW" Source="FFD4D4D4" />
       </Color>
       <Color Name="SnapshotTileErrorText">
-        <Foreground Type="CT_RAW" Source="FFFF0000" />
+        <Foreground Type="CT_RAW" Source="FFCA333F" />
       </Color>
       <Color Name="SnapshotTileHeader">
         <Background Type="CT_RAW" Source="FFEFEFF2" />
@@ -6565,7 +6565,7 @@
       </Color>
       <Color Name="ChangedText">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFCA333F" />
       </Color>
     </Category>
     <Category Name="Performance Tips" GUID="{7a4c6cc9-8404-4b95-af88-f11b657c7268}">
@@ -7728,11 +7728,11 @@
       </Color>
       <Color Name="Number">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFBBC1CD" />
+        <Foreground Type="CT_RAW" Source="FF8792A8" />
       </Color>
       <Color Name="Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF545F74" />
+        <Foreground Type="CT_RAW" Source="FF3D748F" />
       </Color>
       <Color Name="Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -8921,7 +8921,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Task List Shortcut">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF4095BF" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="hinted suggestion">
@@ -9026,7 +9026,7 @@
       </Color>
       <Color Name="Breakpoint - Selected">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF4095BF" />
       </Color>
       <Color Name="Coverage Partially Touched Area">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -9163,6 +9163,14 @@
       <Color Name="Brace Matching (Rectangle)">
         <Background Type="CT_RAW" Source="FF232730" />
         <Foreground Type="CT_RAW" Source="FF00FF00" />
+      </Color>
+      <Color Name="Track Changes before save">
+        <Background Type="CT_RAW" Source="FF818F3D" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Track Changes after save">
+        <Background Type="CT_RAW" Source="FF3D8A7D" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
     </Category>
   </Theme>
