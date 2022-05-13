@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Zero (123)" GUID="{c6312d7a-8540-4650-894e-cdeef0bb3cde}" BaseGUID="{575628dd-e4dc-452b-bf6a-6b50d63837d6}">
+  <Theme Name="Zero (4)" GUID="{c6312d7a-8540-4650-894e-cdeef0bb2cde}" BaseGUID="{575628dd-e4dc-452b-bf6a-6b50d63837d6}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Chevron">
         <Foreground Type="CT_RAW" Source="FF101216" />
@@ -1819,27 +1819,27 @@
       </Color>
       <Color Name="namespace name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFA657" />
+        <Foreground Type="CT_RAW" Source="FF8792A8" />
       </Color>
       <Color Name="delegate name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFA657" />
+        <Foreground Type="CT_RAW" Source="FFA24DB2" />
       </Color>
       <Color Name="enum name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFA657" />
+        <Foreground Type="CT_RAW" Source="FF4095BF" />
       </Color>
       <Color Name="interface name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFA657" />
+        <Foreground Type="CT_RAW" Source="FF62A63F" />
       </Color>
       <Color Name="struct name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFA657" />
+        <Foreground Type="CT_RAW" Source="FF4095BF" />
       </Color>
       <Color Name="type parameter name">
         <Background Type="CT_RAW" Source="FF16191F" />
-        <Foreground Type="CT_RAW" Source="FFFFA657" />
+        <Foreground Type="CT_RAW" Source="FF3D748F" />
       </Color>
       <Color Name="method name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1847,7 +1847,7 @@
       </Color>
       <Color Name="xml doc comment - name">
         <Background Type="CT_RAW" Source="FF16191F" />
-        <Foreground Type="CT_RAW" Source="FF7EE787" />
+        <Foreground Type="CT_RAW" Source="FFAAB1C1" />
       </Color>
       <Color Name="xml doc comment - attribute name">
         <Background Type="CT_RAW" Source="FF16191F" />
@@ -1855,7 +1855,7 @@
       </Color>
       <Color Name="punctuation">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFCCD0DA" />
+        <Foreground Type="CT_RAW" Source="FF8792A8" />
       </Color>
       <Color Name="brace matching">
         <Background Type="CT_RAW" Source="FF232730" />
@@ -1887,11 +1887,11 @@
       </Color>
       <Color Name="HTML Element Name">
         <Background Type="CT_RAW" Source="FF16191F" />
-        <Foreground Type="CT_RAW" Source="FF7EE787" />
+        <Foreground Type="CT_RAW" Source="FFAAB1C1" />
       </Color>
       <Color Name="CSS Selector">
         <Background Type="CT_RAW" Source="FF16191F" />
-        <Foreground Type="CT_RAW" Source="FF7EE787" />
+        <Foreground Type="CT_RAW" Source="FFAAB1C1" />
       </Color>
       <Color Name="HTML Attribute Name">
         <Background Type="CT_RAW" Source="FF16191F" />
@@ -1931,15 +1931,15 @@
       </Color>
       <Color Name="event name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFA657" />
+        <Foreground Type="CT_RAW" Source="FFA24DB2" />
       </Color>
       <Color Name="local name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFA657" />
+        <Foreground Type="CT_RAW" Source="FF8792A8" />
       </Color>
       <Color Name="field name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFA657" />
+        <Foreground Type="CT_RAW" Source="FFB98046" />
       </Color>
       <Color Name="constant name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1947,11 +1947,11 @@
       </Color>
       <Color Name="enum member name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFA657" />
+        <Foreground Type="CT_RAW" Source="FFAABF40" />
       </Color>
       <Color Name="parameter name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFA657" />
+        <Foreground Type="CT_RAW" Source="FF545F74" />
       </Color>
       <Color Name="label name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1959,7 +1959,7 @@
       </Color>
       <Color Name="property name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFCCD0DA" />
+        <Foreground Type="CT_RAW" Source="FFB98046" />
       </Color>
       <Color Name="Literal">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1979,7 +1979,7 @@
       </Color>
       <Color Name="outlining.collapsehintadornment">
         <Background Type="CT_RAW" Source="FF13161B" />
-        <Foreground Type="CT_RAW" Source="FFCCD0DA" />
+        <Foreground Type="CT_RAW" Source="FF8792A8" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedReference">
         <Background Type="CT_RAW" Source="FF16191F" />
@@ -2399,7 +2399,7 @@
       </Color>
       <Color Name="operator - overloaded">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFCA333F" />
+        <Foreground Type="CT_RAW" Source="FF8792A8" />
       </Color>
       <Color Name="record class name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2579,15 +2579,15 @@
       </Color>
       <Color Name="CppEnumSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF95A63F" />
+        <Foreground Type="CT_RAW" Source="FFAABF40" />
       </Color>
       <Color Name="CppGlobalVariableSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF40BFAA" />
+        <Foreground Type="CT_RAW" Source="FFB9A646" />
       </Color>
       <Color Name="CppLocalVariableSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFAAB1C1" />
+        <Foreground Type="CT_RAW" Source="FF8792A8" />
       </Color>
       <Color Name="CppParameterSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2615,7 +2615,7 @@
       </Color>
       <Color Name="CppMemberFieldSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF40BFAA" />
+        <Foreground Type="CT_RAW" Source="FFB98046" />
       </Color>
       <Color Name="CppStaticMemberFunctionSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -3267,7 +3267,7 @@
         <Background Type="CT_RAW" Source="FF101216" />
       </Color>
       <Color Name="ComboBoxItemMouseOverBorder">
-        <Background Type="CT_RAW" Source="FFF0F0F0" />
+        <Background Type="CT_RAW" Source="FF16191F" />
       </Color>
       <Color Name="ComboBoxMouseOverBorder">
         <Background Type="CT_RAW" Source="FF101216" />
@@ -3346,10 +3346,10 @@
         <Background Type="CT_RAW" Source="FF101216" />
       </Color>
       <Color Name="DropDownButtonMouseDownSeparator">
-        <Background Type="CT_RAW" Source="FFF0F0F0" />
+        <Background Type="CT_RAW" Source="FF2F3541" />
       </Color>
       <Color Name="DropDownButtonMouseOverSeparator">
-        <Background Type="CT_RAW" Source="FFF0F0F0" />
+        <Background Type="CT_RAW" Source="FF2F3541" />
       </Color>
       <Color Name="DropDownMouseDownBorder">
         <Background Type="CT_RAW" Source="FF2F3541" />
@@ -5493,6 +5493,9 @@
       </Color>
       <Color Name="ToolTipBorder">
         <Background Type="CT_RAW" Source="FF101216" />
+      </Color>
+      <Color Name="FileTabProvisionalHoverBorder">
+        <Background Type="CT_RAW" Source="FF68217A" />
       </Color>
     </Category>
     <Category Name="Find" GUID="{4370282e-987e-4ac4-ad14-5ffed2ad1e14}">
@@ -8511,6 +8514,9 @@
         <Background Type="CT_RAW" Source="FFF3F3F4" />
         <Foreground Type="CT_RAW" Source="FF1E1E1E" />
       </Color>
+      <Color Name="LineStagingHunkBorder">
+        <Background Type="CT_RAW" Source="FF0066CC" />
+      </Color>
     </Category>
     <Category Name="VisualProfiler" GUID="{cf3994af-130f-4f0d-a84e-3601e4e357d9}">
       <Color Name="HintText">
@@ -9170,6 +9176,98 @@
       </Color>
       <Color Name="Track Changes after save">
         <Background Type="CT_RAW" Source="FF3D8A7D" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Bookmark">
+        <Background Type="CT_RAW" Source="FF7E6551" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="compiler error">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF9BD1E1" />
+      </Color>
+      <Color Name="syntax error">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFFC3E36" />
+      </Color>
+      <Color Name="other error">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFCA79EC" />
+      </Color>
+      <Color Name="compiler warning">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF95DB7D" />
+      </Color>
+      <Color Name="Code Snippet Field (Selected)">
+        <Background Type="CT_RAW" Source="FF462100" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Smart Tag">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFD7BA7D" />
+      </Color>
+      <Color Name="Bookmark (Disabled)">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Definition Window Current Match">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFD7BA7D" />
+      </Color>
+      <Color Name="Warning Lines Path">
+        <Background Type="CT_RAW" Source="FFB5CEA8" />
+        <Foreground Type="CT_RAW" Source="FF21444E" />
+      </Color>
+      <Color Name="Code Snippet Dependent Field">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFB6613D" />
+      </Color>
+      <Color Name="Refactoring Current Field">
+        <Background Type="CT_RAW" Source="FF507470" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Breakpoint - Advanced (Disabled)">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Snappoint (Error)">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Logpoint - Advanced (Error)">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Breakpoint - Mapped (Disabled)">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Breakpoint - Mapped (Error)">
+        <Background Type="CT_RAW" Source="FF8C2F2F" />
+        <Foreground Type="CT_RAW" Source="FFFFDBA3" />
+      </Color>
+      <Color Name="Breakpoint - Advanced (Error)">
+        <Background Type="CT_RAW" Source="FF8C2F2F" />
+        <Foreground Type="CT_RAW" Source="FFFFDBA3" />
+      </Color>
+      <Color Name="Current Statement (new context)">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFEA7E5F" />
+      </Color>
+      <Color Name="Snappoint - Advanced (Error)">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Breakpoint (Error)">
+        <Background Type="CT_RAW" Source="FF8C2F2F" />
+        <Foreground Type="CT_RAW" Source="FFFFDBA3" />
+      </Color>
+      <Color Name="SQL DML Marker">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Logpoint (Error)">
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
     </Category>

@@ -10,10 +10,10 @@ X Template(T* x) {
 }
 
 enum Enum {
-	a,
-	b,
-	c = 1,
-	v = 123
+	ENUM_A MACRO(1, 2),
+	ENUM_B MACRO(2, 0),
+	ENUM_C = 1,
+	ENUM_D = 123
 };
 struct Structure {
 	int a; 
@@ -84,20 +84,21 @@ namespace Namespace  {
 			std::regex regex("(\Java(Script)\)");
 			std::regex_match(std::string("x\n"), regex);
 			this->Prop;
-			Property;
-			GlobalInt;
+			Enum::ENUM_A;
 			uint* uInteger = new uint(1);
 			int* ax = new int(123);
 			int i1 = 1234567890;
 			int i2 = 1234567890ul;
 			int i3 = (int)'\001';
-			auto* chars = "Chars\n";
+			auto* Chars = "Chars\n";
 			auto* chars = "12321";
 			int i = rand();
 			i = i | 1 & 0;
 			if (i != 0 || i == 1 && -1) {
 				i++;
 				i--; 
+			}
+			if (Chars == "Chars") {
 			}
 			switch (i1) {
 				case 0: {	break;	};
