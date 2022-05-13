@@ -11,7 +11,6 @@ struct Structure {
 };
 interface IInterface { 
 }
-
 public class Template<TTemplate> { 
 }
 public delegate void Delegate();
@@ -19,6 +18,7 @@ namespace Daun
 {
     class Program
     {
+        public const int ConstStaticParameter = 0;
         public static int StaticParameter = 0;
         public event Delegate Event;
         /// <asd> zalupa </code>
@@ -53,6 +53,7 @@ namespace Daun
         {
             int i = 0;
             string str = "asd";
+            asdasdas__ - async;
             string regex = "(Mr\\.? |Mrs\\.? |Miss |Ms\\.? )";
             string[] strings = { };
             foreach (string _str in strings) {

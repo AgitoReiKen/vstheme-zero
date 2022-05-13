@@ -1943,7 +1943,7 @@
 			</Color>
 			<Color Name="constant name">
 				<Background Type="CT_INVALID" Source="00000000" />
-				<Foreground Type="CT_RAW" Source="FFFF0002" />
+				<Foreground Type="CT_RAW" Source="FF4055BF" />
 			</Color>
 			<Color Name="enum member name">
 				<Background Type="CT_INVALID" Source="00000000" />
@@ -9190,19 +9190,19 @@
 			</Color>
 			<Color Name="compiler error">
 				<Background Type="CT_INVALID" Source="00000000" />
-				<Foreground Type="CT_RAW" Source="FF9BD1E1" />
+				<Foreground Type="CT_RAW" Source="FFCA333F" />
 			</Color>
 			<Color Name="syntax error">
 				<Background Type="CT_INVALID" Source="00000000" />
-				<Foreground Type="CT_RAW" Source="FFFC3E36" />
+				<Foreground Type="CT_RAW" Source="FFCA333F" />
 			</Color>
 			<Color Name="other error">
 				<Background Type="CT_INVALID" Source="00000000" />
-				<Foreground Type="CT_RAW" Source="FFCA79EC" />
+				<Foreground Type="CT_RAW" Source="FFCA333F" />
 			</Color>
 			<Color Name="compiler warning">
 				<Background Type="CT_INVALID" Source="00000000" />
-				<Foreground Type="CT_RAW" Source="FF95DB7D" />
+				<Foreground Type="CT_RAW" Source="FFBF8040" />
 			</Color>
 			<Color Name="Code Snippet Field (Selected)">
 				<Background Type="CT_RAW" Source="FF462100" />
