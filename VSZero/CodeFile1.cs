@@ -5,6 +5,7 @@ enum Enum {
     ENUM_C
 }
 #region Xuy
+asdasd
 #endregion
 struct Structure { 
 };
