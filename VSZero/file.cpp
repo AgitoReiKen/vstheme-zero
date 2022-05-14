@@ -86,7 +86,7 @@ namespace Namespace  {
 			this->Prop;
 			Enum::ENUM_A;
 			uint* uInteger = new uint(1);
-			int* ax = new int(123);
+			int* ax = new int(123);  
 			int i1 = 1234567890;
 			int i2 = 1234567890ul;
 			int i3 = (int)'\001';
@@ -137,6 +137,7 @@ int main(int x, char** args, ...)  {
 	Namespace::Class newClass = Namespace::Class();
 	void* null = std::nullptr_t;
 	auto __ = new char('\000');
+	auto _123_ = new std::string('\000');
 	delete __;
 
 	auto local = int(1);
