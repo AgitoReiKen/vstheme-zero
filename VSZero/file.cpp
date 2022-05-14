@@ -77,6 +77,13 @@ namespace Namespace  {
 		static int Static;
 		static void StaticFunction() {
 		}
+		
+		/// <summary>
+		/// asddas
+		/// </summary>
+		/// <param name="_property"></param>
+		/// <param name=""></param>
+		/// <returns></returns>
 		bool Load(void* _property, ...) {
 			_property;
 			GlobalEnum;

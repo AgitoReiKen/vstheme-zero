@@ -9,6 +9,10 @@ struct Structure {
 interface IInterface {
     void Func();
 }
+/// <summary>
+/// asdas
+/// </summary>
+/// <typeparamref name="TTemplate">asdas</typeparam>
 public class Template<TTemplate> : IInterface {
     public TTemplate Param;
     public void Func() { } 
@@ -21,15 +25,16 @@ namespace Daun
         public const int ConstStaticParameter = 0;
         public static int StaticParameter = 0;
         public event Delegate Event;
-        /// <asd> zalupa </code>
-        /// asdasd
-        ///as
-        ///asasd
-        ///assadsad
 
-        /*
-         * 
-         */
+        /// <summary>
+        /// asdas
+        /// <term>asda</term>
+        /// <para>asadasd</para>
+        /// The <c>Label</c>
+        /// </summary>
+        /// <param name="a">asd</param>
+        /// <param name="b">asd</param>
+        /// <returns></returns>
         public static bool operator ==(Program a, Program b) {
             return a.Parameter == b.Parameter;
         }
@@ -47,13 +52,30 @@ namespace Daun
             } 
         }
         
+        /// <summary>
+        /// asdas
+        /// </summary>
         public int Parameter2 = 0;
         public int Function()
         {
             return 0;
         }
-        public static int Main()
+        /// <summary>
+        /// <param name="a">[a] Parameter A</param><br></br>
+        /// <param name="b">[b] Parameter B</param><br></br>
+        /// <code> 
+        /// var index = 5 ;
+        /// index ++
+        /// </code>
+        /// <see cref="a">Link text</see>
+        /// <see href="https://google.com/">Link text</see>
+        /// </summary>
+        /// <![CDATA[a, b, c, d]]>
+        /// <returns>asdasdas</returns>
+        /// <see langword="true">true</see>
+        public static int Main(int a, string b)
         {
+            // xml dodelat'
             int i = 0;
             string str = "asd";
             string regex = "(Mr\\.? |Mrs\\.? |Miss |Ms\\.? )";
