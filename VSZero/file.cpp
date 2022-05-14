@@ -78,6 +78,7 @@ namespace Namespace  {
 		static void StaticFunction() {
 		}
 		
+		/// MICROSOFT HUESOSI SDELALI ODIN COLOR DLYA /// I TEXTA
 		/// <summary>
 		/// asddas
 		/// </summary>
