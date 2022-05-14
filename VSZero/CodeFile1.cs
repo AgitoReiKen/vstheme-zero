@@ -3,15 +3,15 @@ enum Enum {
     ENUM_A,
     ENUM_B,
     ENUM_C
-}
-#region Xuy
-asdasd
-#endregion
+} 
 struct Structure { 
 };
-interface IInterface { 
+interface IInterface {
+    void Func();
 }
-public class Template<TTemplate> { 
+public class Template<TTemplate> : IInterface {
+    public TTemplate Param;
+    public void Func() { } 
 }
 public delegate void Delegate();
 namespace Daun
@@ -27,6 +27,9 @@ namespace Daun
         ///asasd
         ///assadsad
 
+        /*
+         * 
+         */
         public static bool operator ==(Program a, Program b) {
             return a.Parameter == b.Parameter;
         }
@@ -53,7 +56,6 @@ namespace Daun
         {
             int i = 0;
             string str = "asd";
-            asdasdas__ - async;
             string regex = "(Mr\\.? |Mrs\\.? |Miss |Ms\\.? )";
             string[] strings = { };
             foreach (string _str in strings) {

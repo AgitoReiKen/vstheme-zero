@@ -121,10 +121,6 @@ namespace Namespace  {
 	}; 
 }
 
-Namespace::
-Class::
-Load(x);
-
 int main(int x, char** args, ...)  {
 	
 	x = x + 1;
