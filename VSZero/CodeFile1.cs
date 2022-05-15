@@ -78,6 +78,9 @@ namespace Daun
             // xml dodelat'
             int i = 0;
             string str = "asd";
+        label:
+            { }
+            goto label;
             string regex = "(Mr\\.? |Mrs\\.? |Miss |Ms\\.? )";
             string[] strings = { };
             foreach (string _str in strings) {

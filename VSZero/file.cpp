@@ -132,6 +132,9 @@ namespace Namespace  {
 int main(int x, char** args, ...)  {
 	
 	x = x + 1;
+
+	goto label;
+	label: {return 0; }
 	auto = Namespace::Class::Static;
 	EEnum::Type::a;
 	EEnum::a;
