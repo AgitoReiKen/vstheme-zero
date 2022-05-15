@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="Zero (6)" GUID="{d16014c2-2846-478b-8b4b-99f2307e3efb}" BaseGUID="{575628dd-e4dc-452b-bf6a-6b50d63837d6}">
+  <Theme Name="Zero (10)" GUID="{eeb70998-813a-4465-9f9e-c682dcb4f5e3}" BaseGUID="{575628dd-e4dc-452b-bf6a-6b50d63837d6}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Chevron">
         <Foreground Type="CT_RAW" Source="FF101216" />
@@ -4493,7 +4493,7 @@
         <Background Type="CT_RAW" Source="5C101216" />
       </Color>
       <Color Name="CommandBarMenuItemMouseOverBorder">
-        <Background Type="CT_RAW" Source="66737C85" />
+        <Background Type="CT_RAW" Source="00046FD9" />
       </Color>
       <Color Name="CommandBarBorder">
         <Background Type="CT_RAW" Source="00FFFFFF" />
@@ -4684,7 +4684,7 @@
         <Background Type="CT_RAW" Source="FF52607A" />
       </Color>
       <Color Name="CommandBarMenuBorder">
-        <Background Type="CT_RAW" Source="00101216" />
+        <Background Type="CT_RAW" Source="FF101216" />
       </Color>
       <Color Name="CommandBarMenuGlyph">
         <Background Type="CT_RAW" Source="FF8592AD" />
@@ -5495,7 +5495,7 @@
         <Background Type="CT_RAW" Source="FF101216" />
       </Color>
       <Color Name="FileTabProvisionalHoverBorder">
-        <Background Type="CT_RAW" Source="FF68217A" />
+        <Background Type="CT_RAW" Source="FF101216" />
       </Color>
     </Category>
     <Category Name="Find" GUID="{4370282e-987e-4ac4-ad14-5ffed2ad1e14}">
