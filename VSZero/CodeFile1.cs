@@ -69,7 +69,7 @@ namespace Daun
         /// </code>
         /// <see cref="a">Link text</see>
         /// <see href="https://google.com/">Link text</see>
-        /// </summary>
+        /// </summary>  
         /// <![CDATA[a, b, c, d]]>
         /// <returns>asdasdas</returns>
         /// <see langword="true">true</see>
