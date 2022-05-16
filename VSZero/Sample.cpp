@@ -78,7 +78,7 @@ namespace Namespace  {
 		static void StaticFunction() {
 		}
 		
-		/// MICROSOFT HUESOSI SDELALI ODIN COLOR DLYA /// I TEXTA
+		/// MIKROSOVD HUESOSI SDELALI ODIN COLOR DLYA /// I TEXTA
 		/// <summary>
 		/// asddas
 		/// </summary>
@@ -104,6 +104,7 @@ namespace Namespace  {
 			i = i | 1 & 0;
 			if (i != 0 || i == 1 && -1) {
 				i++;
+				
 				i--; 
 			}
 			if (Chars == "Chars") {
@@ -115,7 +116,6 @@ namespace Namespace  {
 			}
 			__interface IInterface
 			{
-
 			};
 			constexpr int x = 0x1E / 255;
 

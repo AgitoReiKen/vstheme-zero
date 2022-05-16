@@ -1,4 +1,5 @@
-﻿using System.Net;
+﻿using System;
+using System.Net;
 enum Enum { 
     ENUM_A,
     ENUM_B,
@@ -22,9 +23,9 @@ namespace Daun
 {
     class Program
     {
-        public const int ConstStaticParameter = 0;
+        public const int ConstParameter = 0;
         public static int StaticParameter = 0;
-        public event Delegate Event;
+        public event Delegate Event = null;
 
         /// <summary>
         /// asdas
@@ -73,14 +74,16 @@ namespace Daun
         /// <![CDATA[a, b, c, d]]>
         /// <returns>asdasdas</returns>
         /// <see langword="true">true</see>
-        public static int Main(int a, string b)
+        public static int Main(int a, string b, String _class)
         {
-            // xml dodelat'
             int i = 0;
-            string str = "asd";
-        label:
-            { }
-            goto label;
+            String str = new String("asd");
+            
+            string str = new string("asd".ToCharArray());
+            Enum.ENUM_A;
+            this->Event;
+            StaticParameter;
+            ConstParameter;
             string regex = "(Mr\\.? |Mrs\\.? |Miss |Ms\\.? )";
             string[] strings = { };
             foreach (string _str in strings) {
@@ -95,6 +98,9 @@ namespace Daun
 
                 } while (++i != 10);
             }
+        label:
+            { }
+            goto label;
             return 0;
         }
     }
