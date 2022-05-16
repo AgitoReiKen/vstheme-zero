@@ -1,7 +1,7 @@
 # vstheme-zero
-`output/vszero.vix -> compiled version`
+`output/vszero.vix` -> compiled version
 
-`vszero/customtheme.vstheme -> theme's source code`
+`vszero/customtheme.vstheme` -> theme's source code
 
 ## Language Support
 - C++
