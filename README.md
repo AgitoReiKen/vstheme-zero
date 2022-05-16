@@ -1,5 +1,5 @@
 # vstheme-zero
-`vszero/output/vszero.vix` -> compiled version
+`vszero/output/vszero.vsix` -> compiled version
 
 `vszero/customtheme.vstheme` -> theme's source code
 
