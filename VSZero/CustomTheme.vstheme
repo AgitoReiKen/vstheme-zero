@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Themes>
-  <Theme Name="Zero (1)" GUID="{32872a1e-9caa-4df9-99e9-f8ed5c21f80c}" BaseGUID="{575628dd-e4dc-452b-bf6a-6b50d63837d6}">
+  <Theme Name="Zero (2)" GUID="{34c4ed21-f1b7-4f75-a523-007f2d72cb70}" BaseGUID="{575628dd-e4dc-452b-bf6a-6b50d63837d6}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FFC2C8D6" />
@@ -5560,7 +5560,7 @@
     <Category Name="Folder Difference" GUID="{b36b0228-dbad-4db0-b9c7-2ad3e572010f}">
       <Color Name="Different content">
         <Background Type="CT_RAW" Source="FFE0E4EB" />
-        <Foreground Type="CT_RAW" Source="FFE51400" />
+        <Foreground Type="CT_RAW" Source="FFD65C66" />
       </Color>
       <Color Name="Even Row Items">
         <Background Type="CT_RAW" Source="FFC2C8D6" />
@@ -6594,7 +6594,7 @@
         <Background Type="CT_RAW" Source="FF60A5FA" />
       </Color>
       <Color Name="IndicatorFillCritical">
-        <Background Type="CT_RAW" Source="FFE51400" />
+        <Background Type="CT_RAW" Source="FFD65C66" />
       </Color>
       <Color Name="IndicatorFillWarning">
         <Background Type="CT_RAW" Source="FFD6C25C" />
@@ -6746,7 +6746,7 @@
         <Background Type="CT_RAW" Source="FFA3ADC2" />
       </Color>
       <Color Name="FocusedStopGlyph">
-        <Background Type="CT_RAW" Source="FFE51400" />
+        <Background Type="CT_RAW" Source="FFD65C66" />
       </Color>
       <Color Name="MouseDownDropDownButton">
         <Background Type="CT_RAW" Source="FF13161B" />
@@ -6783,7 +6783,7 @@
         <Background Type="CT_RAW" Source="FFC2C8D6" />
       </Color>
       <Color Name="MouseOverStopGlyph">
-        <Background Type="CT_RAW" Source="FFE51400" />
+        <Background Type="CT_RAW" Source="FFD65C66" />
       </Color>
       <Color Name="MouseOverWatermarkText">
         <Background Type="CT_RAW" Source="FFC2C8D6" />
@@ -6899,7 +6899,7 @@
         <Foreground Type="CT_RAW" Source="FFC2C8D6" />
       </Color>
       <Color Name="StopGlyph">
-        <Background Type="CT_RAW" Source="FFE51400" />
+        <Background Type="CT_RAW" Source="FFD65C66" />
       </Color>
       <Color Name="Unfocused">
         <Background Type="CT_RAW" Source="FF13161B" />
@@ -8462,7 +8462,7 @@
         <Foreground Type="CT_RAW" Source="FFC2C8D6" />
       </Color>
       <Color Name="DragDropInsertionArrow">
-        <Background Type="CT_RAW" Source="FFE51400" />
+        <Background Type="CT_RAW" Source="FFD65C66" />
       </Color>
       <Color Name="DragDropInsertionArrowBorder">
         <Background Type="CT_RAW" Source="FFC2C8D6" />
@@ -8511,7 +8511,7 @@
         <Background Type="CT_RAW" Source="FFC2C8D6" />
       </Color>
       <Color Name="ValidationSquiggles">
-        <Background Type="CT_RAW" Source="FFE51400" />
+        <Background Type="CT_RAW" Source="FFD65C66" />
       </Color>
     </Category>
     <Category Name="UnthemedDialog" GUID="{d1fae935-144d-45a6-af9a-d615e3cd7b75}">
@@ -8586,19 +8586,19 @@
         <Foreground Type="CT_RAW" Source="FFC2C8D6" />
       </Color>
       <Color Name="BadgeButtonCriticalActive">
-        <Background Type="CT_RAW" Source="FFE51400" />
+        <Background Type="CT_RAW" Source="FFD65C66" />
       </Color>
       <Color Name="BadgeButtonCriticalActiveBorder">
-        <Background Type="CT_RAW" Source="FFE51400" />
+        <Background Type="CT_RAW" Source="FFD65C66" />
       </Color>
       <Color Name="BadgeButtonCriticalActiveGlyph">
         <Background Type="CT_RAW" Source="FFC2C8D6" />
       </Color>
       <Color Name="BadgeButtonCriticalInactive">
-        <Background Type="CT_RAW" Source="FFE51400" />
+        <Background Type="CT_RAW" Source="FFD65C66" />
       </Color>
       <Color Name="BadgeButtonCriticalInactiveBorder">
-        <Background Type="CT_RAW" Source="FFE51400" />
+        <Background Type="CT_RAW" Source="FFD65C66" />
       </Color>
       <Color Name="BadgeButtonCriticalInactiveGlyph">
         <Background Type="CT_RAW" Source="FFC2C8D6" />
@@ -8769,7 +8769,7 @@
         <Background Type="CT_RAW" Source="FF13161B" />
       </Color>
       <Color Name="SeverityCritical">
-        <Background Type="CT_RAW" Source="FFE51400" />
+        <Background Type="CT_RAW" Source="FFD65C66" />
       </Color>
       <Color Name="SeverityImportant">
         <Background Type="CT_RAW" Source="FFD6C25C" />
@@ -8867,7 +8867,7 @@
         <Foreground Type="CT_RAW" Source="FFC2C8D6" />
       </Color>
       <Color Name="FolderDiffRed">
-        <Background Type="CT_RAW" Source="FFE51400" />
+        <Background Type="CT_RAW" Source="FFD65C66" />
       </Color>
       <Color Name="LineStagingHunkBorder">
         <Background Type="CT_RAW" Source="FF337799" />
