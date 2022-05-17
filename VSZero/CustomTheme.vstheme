@@ -14,7 +14,7 @@
       </Color>
       <Color Name="ContentSectionHeaderBorder">
         <Foreground Type="CT_RAW" Source="FF101216" />
-      </Color>
+      </Color>  
       <Color Name="H1">
         <Foreground Type="CT_RAW" Source="FF101216" />
       </Color>
