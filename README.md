@@ -1,5 +1,5 @@
 # vstheme-zero 
-![img](https://i.imgur.com/9pLrdxt.png)
+![i](https://i.imgur.com/9pLrdxt.png)
 
 `vszero/output/vszero.vsix` -> compiled version
 
