@@ -2,12 +2,12 @@
 ![image](https://i.imgur.com/9pLrdxt.png)
 ### [Marketplace](https://marketplace.visualstudio.com/items?itemName=AgitoReiKen.zerovstheme)
 
-### About Repo
+### Recommended fonts: Source Code Pro or Cascadia Code Mono
+
+## About Repo
 `vszero/output/vszero.vsix` -> compiled version
 
-`vszero/customtheme.vstheme` -> theme's source code
-
-### Recommended fonts: Source Code Pro or Cascadia Code Mono
+`vszero/customtheme.vstheme` -> theme's source code 
 
 ## Language Support
 - C++
