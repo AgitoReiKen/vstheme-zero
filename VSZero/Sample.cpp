@@ -143,7 +143,7 @@ int main(int x, char** args, ...)  {
 	if (a.operator+(b)) {}
 	if (a == b) {}
 	if (a + b) {};
-
+	::
 	a.c;
 	Namespace::Class newClass = Namespace::Class();
 	void* null = std::nullptr_t;

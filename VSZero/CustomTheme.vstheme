@@ -2376,11 +2376,11 @@
       </Color>
       <Color Name="OverviewMarginScrollButtonsMouseDown">
         <Background Type="CT_RAW" Source="FF13161B" />
-        <Foreground Type="CT_RAW" Source="44464B52" />
+        <Foreground Type="CT_RAW" Source="443D475C" />
       </Color>
       <Color Name="OverviewMarginScrollButtonsMouseOver">
         <Background Type="CT_RAW" Source="FF13161B" />
-        <Foreground Type="CT_RAW" Source="22464B52" />
+        <Foreground Type="CT_RAW" Source="223D475C" />
       </Color>
       <Color Name="OverviewMarginVisible">
         <Background Type="CT_RAW" Source="FF13161B" />
@@ -3193,10 +3193,10 @@
         <Background Type="CT_RAW" Source="FF13161B" />
       </Color>
       <Color Name="AutoHideResizeGrip">
-        <Background Type="CT_RAW" Source="33464B52" />
+        <Background Type="CT_RAW" Source="333D475C" />
       </Color>
       <Color Name="AutoHideResizeGripDisabled">
-        <Background Type="CT_RAW" Source="33464B52" />
+        <Background Type="CT_RAW" Source="333D475C" />
       </Color>
       <Color Name="AutoHideTabBackgroundBegin">
         <Background Type="CT_RAW" Source="FF101216" />
@@ -3493,7 +3493,7 @@
         <Background Type="CT_RAW" Source="FFC2C8D6" />
       </Color>
       <Color Name="CommandBarBorder">
-        <Background Type="CT_RAW" Source="00FFFFFF" />
+        <Background Type="CT_RAW" Source="FF101216" />
       </Color>
       <Color Name="CommandBarCheckBox">
         <Background Type="CT_RAW" Source="FFC2C8D6" />
@@ -4887,7 +4887,7 @@
         <Background Type="CT_RAW" Source="88101216" />
       </Color>
       <Color Name="ScrollBarArrowDisabledBackground">
-        <Background Type="CT_RAW" Source="33464B52" />
+        <Background Type="CT_RAW" Source="333D475C" />
       </Color>
       <Color Name="ScrollBarArrowGlyph">
         <Background Type="CT_RAW" Source="FF8592AD" />
@@ -4902,10 +4902,10 @@
         <Background Type="CT_RAW" Source="FFC2C8D6" />
       </Color>
       <Color Name="ScrollBarArrowMouseOverBackground">
-        <Background Type="CT_RAW" Source="44464B52" />
+        <Background Type="CT_RAW" Source="443D475C" />
       </Color>
       <Color Name="ScrollBarArrowPressedBackground">
-        <Background Type="CT_RAW" Source="44464B52" />
+        <Background Type="CT_RAW" Source="443D475C" />
       </Color>
       <Color Name="ScrollBarBackground">
         <Background Type="CT_RAW" Source="FF13161B" />
@@ -4914,37 +4914,37 @@
         <Background Type="CT_RAW" Source="FF1C1C1C" />
       </Color>
       <Color Name="ScrollBarDisabledBackground">
-        <Background Type="CT_RAW" Source="33464B52" />
+        <Background Type="CT_RAW" Source="333D475C" />
       </Color>
       <Color Name="ScrollBarThumbBackground">
-        <Background Type="CT_RAW" Source="33464B52" />
+        <Background Type="CT_RAW" Source="333D475C" />
       </Color>
       <Color Name="ScrollBarThumbBorder">
         <Background Type="CT_RAW" Source="88101216" />
       </Color>
       <Color Name="ScrollBarThumbDisabled">
-        <Background Type="CT_RAW" Source="33464B52" />
+        <Background Type="CT_RAW" Source="333D475C" />
       </Color>
       <Color Name="ScrollBarThumbGlyph">
-        <Background Type="CT_RAW" Source="33464B52" />
+        <Background Type="CT_RAW" Source="333D475C" />
       </Color>
       <Color Name="ScrollBarThumbGlyphMouseOverBorder">
-        <Background Type="CT_RAW" Source="44464B52" />
+        <Background Type="CT_RAW" Source="443D475C" />
       </Color>
       <Color Name="ScrollBarThumbGlyphPressedBorder">
-        <Background Type="CT_RAW" Source="88464B52" />
+        <Background Type="CT_RAW" Source="883D475C" />
       </Color>
       <Color Name="ScrollBarThumbMouseOverBackground">
-        <Background Type="CT_RAW" Source="44464B52" />
+        <Background Type="CT_RAW" Source="443D475C" />
       </Color>
       <Color Name="ScrollBarThumbMouseOverBorder">
-        <Background Type="CT_RAW" Source="44464B52" />
+        <Background Type="CT_RAW" Source="443D475C" />
       </Color>
       <Color Name="ScrollBarThumbPressedBackground">
-        <Background Type="CT_RAW" Source="88464B52" />
+        <Background Type="CT_RAW" Source="883D475C" />
       </Color>
       <Color Name="ScrollBarThumbPressedBorder">
-        <Background Type="CT_RAW" Source="88464B52" />
+        <Background Type="CT_RAW" Source="883D475C" />
       </Color>
       <Color Name="SearchBoxBackground">
         <Background Type="CT_RAW" Source="FF13161B" />
@@ -7118,7 +7118,7 @@
         <Foreground Type="CT_RAW" Source="FF101216" />
       </Color>
       <Color Name="StartPagePartitionLine">
-        <Background Type="CT_RAW" Source="33464B52" />
+        <Background Type="CT_RAW" Source="333D475C" />
       </Color>
       <Color Name="StartPageSupportText">
         <Foreground Type="CT_RAW" Source="FFC2C8D6" />
@@ -7139,7 +7139,7 @@
         <Background Type="CT_RAW" Source="FFFEF3C7" />
       </Color>
       <Color Name="VideoRSSItem">
-        <Background Type="CT_RAW" Source="33464B52" />
+        <Background Type="CT_RAW" Source="333D475C" />
       </Color>
       <Color Name="VideoRSSItemDuration">
         <Foreground Type="CT_RAW" Source="FFC2C8D6" />
