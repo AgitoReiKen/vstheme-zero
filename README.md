@@ -5,9 +5,15 @@
 
 `vszero/customtheme.vstheme` -> theme's source code
 
+### Recommended fonts: Source Code Pro or Cascadia Code Mono
+
 ## Language Support
 - C++
 - C#
 - XML
 
-*Other languages wasn't tested
+*Other languages were not tested
+
+## Issues
+- Some elements aren't color corrected because i couldn't find their ID or they are static
+- Same color id applied to multiple logically different elements
