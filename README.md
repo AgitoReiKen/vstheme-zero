@@ -1,6 +1,8 @@
 # vstheme-zero 
 ![image](https://i.imgur.com/9pLrdxt.png)
+### [Marketplace](https://marketplace.visualstudio.com/items?itemName=AgitoReiKen.zerovstheme)
 
+### About Repo
 `vszero/output/vszero.vsix` -> compiled version
 
 `vszero/customtheme.vstheme` -> theme's source code
