@@ -19,3 +19,7 @@
 ## Issues
 - Some elements aren't color corrected because i couldn't find their ID or they are static
 - Same color id applied to multiple logically different elements
+
+## Overview
+![1](https://i.imgur.com/r6bTXNX.jpg)
+![2](https://i.imgur.com/QGkHo4j.jpg)
