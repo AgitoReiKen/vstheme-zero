@@ -9,7 +9,7 @@
 
 `vszero/customtheme.vstheme` -> theme's source code 
 
-## Languages
+## Languages (not indicated items simply weren't checked)
 - C++
 - C#
 - XML
