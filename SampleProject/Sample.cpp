@@ -1,6 +1,9 @@
 ﻿
 #include <stdio.h>
 #include <regex>
+#include <wrong>
+#include "wrong"
+#include "source.h"
 #define MACRO(x, y)
 struct SynProstitutkiGalimoy;
 typedef SynProstitutkiGalimoy You;
@@ -12,8 +15,8 @@ void GlobalFunction() {}
 
 union Union
 {
-	int Member;
-	std::string Member;
+	int member;
+	std::string Membase;
 };
 enum Enum {
 	ENUM_A MACRO(1, 2),
@@ -32,6 +35,7 @@ struct Structure {
 /*
 * Comment
 */
+ 
 namespace EEnum {
 	enum Type {
 		a, b, c
@@ -83,7 +87,21 @@ namespace Namespace  {
 		static int Static;
 		static void StaticFunction() {
 		}
-		
+
+		//TODO asdasda
+		/*TODO asdasdasd*/
+
+		//asdasdasd
+		mutable int x = 1;
+		const volatile int y = 2;
+
+		//TODO fix up Load?
+		//BUG fix up Load ?
+
+		//ASDASDAS? ASDASD
+		//NotImplementedException
+
+		/// TODO asdasdasdas
 		/// MIKROSOVD HUESOSI SDELALI ODIN COLOR DLYA /// I TEXTA
 		/// <summary>
 		/// asddas
@@ -92,8 +110,9 @@ namespace Namespace  {
 		/// <param name=""></param>
 		/// <returns></returns>
 		bool Load(void* _property, ...) {
-			_property;
-			GlobalEnum;
+
+			_property = std::move(_property);
+			GlobalEnum;	
 			int local = 0;
 			std::regex regex("(\Java(Script)\)");
 			std::regex_match(std::string("x\n"), regex);
@@ -120,9 +139,7 @@ namespace Namespace  {
 				case 1: {	break;	};
 				default: {	break;	};
 			}
-			__interface IInterface
-			{
-			};
+			 
 			constexpr int x = 0x1E / 255;
 
 			"\n";
@@ -134,19 +151,21 @@ namespace Namespace  {
 		}
 	}; 
 }
-
+__interface IInterface
+{
+};
 int main(int x, char** args, ...)  {
 	
 	x = x + 1;
-
+	 
 	goto label;
-	label: {return 0; }
+	label:
 	auto = Namespace::Class::Static;
 	EEnum::Type::a;
 	EEnum::a;
 	Namespace::Class a; 
 	Namespace::Class b; 
-	if (a.operator+(b)) {}
+	if (a + b) {}
 	if (a == b) {}
 	if (a + b) {};
 	::

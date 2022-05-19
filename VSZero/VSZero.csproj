@@ -51,6 +51,7 @@
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>
+    <None Include="ToCheck.md" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />

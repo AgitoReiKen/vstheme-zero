@@ -7,13 +7,32 @@ enum Enum {
 } 
 struct Structure { 
 };
+
+public class Any
+{
+    public bool someBoolean = true;
+}
+
+public static class StringExtension
+{
+    public static int CharCount(this string str, char c)
+    {
+        int counter = 0;
+        for (int i = 0; i < str.Length; i++)
+        {
+            if (str[i] == c)
+                counter++;
+        }
+        return counter;
+    }
+}
 interface IInterface {
     void Func();
 }
 /// <summary>
 /// asdas
 /// </summary>
-/// <typeparamref name="TTemplate">asdas</typeparam>
+/// <typeparamref name="TTemplate">asdas</typeparamref>
 public class Template<TTemplate> : IInterface {
     public TTemplate Param;
     public void Func() { } 
@@ -21,8 +40,24 @@ public class Template<TTemplate> : IInterface {
 public delegate void Delegate();
 namespace Daun
 {
+
+    public record struct RecordStruct(int A)
+    {
+        public int Zaloopa => A * 2;
+    }
+    static class StaticClass
+    {
+        public static int StaticInt = 123;
+    }
+
+   
     class Program
     {
+        public static bool TestLateBinding(dynamic x)
+        {
+            return x["someBoolean"];
+        }
+
         public const int ConstParameter = 0;
         public static int StaticParameter = 0;
         public event Delegate Event = null;
@@ -57,9 +92,10 @@ namespace Daun
         /// asdas
         /// </summary>
         public int Parameter2 = 0;
+        //TODO implement
         public int Function()
         {
-            return 0;
+            return NotImplementedException;
         }
         /// <summary>
         /// <param name="a">[a] Parameter A</param><br></br>
@@ -76,9 +112,22 @@ namespace Daun
         /// <see langword="true">true</see>
         public static int Main(int a, string b, String _class)
         {
+            Any any = new Any();
+
+            TestLateBinding(any);
+            Tuple<int, string> asda = new(1, "123");
+            int ten = 10;
+            int i2 = 2147483647 + ten;
+            Console.Write(checked(2147483647 + ten));
+            checked
+            {
+                int i3 = 2147483647 + ten;
+                Console.Write(i3);
+            } 
             int i = 0;
-            String str = new String("asd");
-            
+            String str = new("asd");
+            str.CharCount();
+            Parameter = 0;
             string str = new string("asd".ToCharArray());
             Enum.ENUM_A;
             this->Event;
