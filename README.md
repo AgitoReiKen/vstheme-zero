@@ -9,12 +9,15 @@
 
 `vszero/customtheme.vstheme` -> theme's source code 
 
-## Language Support
+## Languages
 - C++
 - C#
 - XML
+- Ini
+- Markdown
 
-*Other languages were not tested
+## Extra
+- Resharper (C++, C#, UE, General Features)
 
 ## Issues
 - Some elements aren't color corrected because i couldn't find their ID or they are static
