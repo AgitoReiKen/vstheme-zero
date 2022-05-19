@@ -8,7 +8,13 @@ template<typename T, typename X = std::nullptr_t>
 X Template(T* x) {
 	return &x;
 }
+void GlobalFunction() {}
 
+union Union
+{
+	int Member;
+	std::string Member;
+};
 enum Enum {
 	ENUM_A MACRO(1, 2),
 	ENUM_B MACRO(2, 0),
