@@ -4,7 +4,6 @@
     <DisplayName>Zero (VS Dark Theme)</DisplayName>
     <Description xml:space="preserve">Dark/Night theme for 'Visual Studio 2022'. C++, C#, ReSharper...</Description>
     <PreviewImage>vszero-mini.png</PreviewImage>
-    <Preview>true</Preview>
   </Metadata>
   <Installation>
     <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
