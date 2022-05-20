@@ -3120,14 +3120,14 @@
       </Color>
       <Color Name="ReSharper Format String Item">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF5CADD6" />
       </Color>
       <Color Name="ReSharper Format String Item 2">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Matched Format String Item">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF232730" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper String Escape Character 1">
@@ -3388,7 +3388,7 @@
       </Color>
       <Color Name="ReSharper JavaScript Template">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF5CADD6" />
       </Color>
       <Color Name="ReSharper JsDoc Parameter or Property Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -3412,7 +3412,7 @@
       </Color>
       <Color Name="ReSharper JavaScript Regex Border">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF5CADD6" />
       </Color>
       <Color Name="ReSharper Json Property">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -3764,7 +3764,7 @@
       </Color>
       <Color Name="ReSharper C++ Dependent Name Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFF0001" />
+        <Foreground Type="CT_RAW" Source="FF8592AD" />
       </Color>
       <Color Name="ReSharper C++ Preprocessor Macro Identifier">
         <Background Type="CT_INVALID" Source="00000000" />

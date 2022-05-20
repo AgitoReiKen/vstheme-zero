@@ -122,6 +122,7 @@ namespace Namespace  {
 			int* ax = new int(123);  
 			int i1 = 1234567890;
 			int i2 = 1234567890ul;
+			printf("asdasd%d\n %d%f\n", 123, 321, 321);
 			int i3 = (int)'\001';
 			auto* Chars = "Chars\n";
 			auto* chars = "12321";
