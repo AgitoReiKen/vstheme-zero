@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Themes>
-	<Theme Name="Zero" GUID="{34c4ed21-f1b7-4f75-a523-007f2d72cb70}" BaseGUID="{575628dd-e4dc-452b-bf6a-6b50d63837d6}">
+  <Theme Name="Zero (2)" GUID="{cc32bfb6-05ea-43fa-8858-d2d585220b1c}" BaseGUID="{575628dd-e4dc-452b-bf6a-6b50d63837d6}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FFC2C8D6" />
@@ -2023,7 +2023,7 @@
         <Foreground Type="CT_INVALID" Source="00101216" />
       </Color>
       <Color Name="deltadiff.remove.word">
-        <Background Type="CT_RAW" Source="FF8F3D44" />
+        <Background Type="CT_RAW" Source="FF422426" />
         <Foreground Type="CT_RAW" Source="FFD65C66" />
       </Color>
       <Color Name="Edit and Continue">
