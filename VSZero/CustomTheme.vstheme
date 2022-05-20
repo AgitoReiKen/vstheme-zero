@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Themes>
-	<Theme Name="Zero" GUID="{34c4ed21-f1b7-4f75-a523-007f2d72cb70}" BaseGUID="{575628dd-e4dc-452b-bf6a-6b50d63837d6}">
+  <Theme Name="Zero (1)" GUID="{a775c93a-97a7-4f8b-a95b-1eb96613c0bb}" BaseGUID="{575628dd-e4dc-452b-bf6a-6b50d63837d6}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FFC2C8D6" />
@@ -8955,11 +8955,11 @@
         <Foreground Type="CT_RAW" Source="FF101216" />
       </Color>
       <Color Name="Code Snippet Dependent Field">
-        <Background Type="CT_RAW" Source="FFE0E4EB" />
-        <Foreground Type="CT_RAW" Source="FFB6613D" />
+        <Background Type="CT_RAW" Source="FF13161B" />
+        <Foreground Type="CT_RAW" Source="FF13161B" />
       </Color>
       <Color Name="Code Snippet Field">
-        <Background Type="CT_INVALID" Source="00101216" />
+        <Background Type="CT_RAW" Source="FF13161B" />
         <Foreground Type="CT_INVALID" Source="00101216" />
       </Color>
       <Color Name="Code Snippet Field (Selected)">
