@@ -612,7 +612,7 @@
         <Foreground Type="CT_RAW" Source="FFC2C8D6" />
       </Color>
       <Color Name="TabItemSelectedBorder">
-        <Background Type="CT_RAW" Source="FF1B1B1C" />
+        <Background Type="CT_RAW" Source="FF16191F" />
       </Color>
       <Color Name="TimelineDivider">
         <Background Type="CT_RAW" Source="FF3D475C" />
@@ -3155,7 +3155,7 @@
         <Foreground Type="CT_RAW" Source="FF7082DB" />
       </Color>
       <Color Name="ReSharper Completion Replacement Range">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF2F3541" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Class Identifier">
@@ -4660,7 +4660,7 @@
         <Background Type="CT_RAW" Source="FF101216" />
       </Color>
       <Color Name="CommandBarSelectedIconDisabled">
-        <Background Type="CT_RAW" Source="FF2D2D30" />
+        <Background Type="CT_RAW" Source="FF232730" />
       </Color>
       <Color Name="CommandBarSelectedIconDisabledBorder">
         <Background Type="CT_RAW" Source="FF101216" />
@@ -5100,10 +5100,10 @@
         <Background Type="CT_RAW" Source="FFC2C8D6" />
       </Color>
       <Color Name="FileTabButtonProvisionalDownSelectedInactive">
-        <Background Type="CT_RAW" Source="FF1B1B1C" />
+        <Background Type="CT_RAW" Source="FF16191F" />
       </Color>
       <Color Name="FileTabButtonProvisionalDownSelectedInactiveBorder">
-        <Background Type="CT_RAW" Source="FF1B1B1C" />
+        <Background Type="CT_RAW" Source="FF16191F" />
       </Color>
       <Color Name="FileTabButtonProvisionalDownSelectedInactiveGlyph">
         <Background Type="CT_RAW" Source="FFC2C8D6" />
@@ -5409,7 +5409,7 @@
         <Background Type="CT_RAW" Source="FFDEE1E7" />
       </Color>
       <Color Name="HelpSearchProviderUnselectedText">
-        <Background Type="CT_RAW" Source="FF1B293E" />
+        <Background Type="CT_RAW" Source="FF1C2027" />
       </Color>
       <Color Name="HelpSearchResultLinkSelected">
         <Background Type="CT_RAW" Source="FF60A5FA" />
