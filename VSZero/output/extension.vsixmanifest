@@ -1,6 +1,6 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
   <Metadata>
-    <Identity Id="ZeroVSTheme.e2e706e2-05d3-4da9-8754-652cd8ab60f4" Version="1.0.5" Language="en-US" Publisher="AgitoReiKen" />
+    <Identity Id="ZeroVSTheme.e2e706e2-05d3-4da9-8754-652cd8ab60f4" Version="1.0.6" Language="en-US" Publisher="AgitoReiKen" />
     <DisplayName>Zero (VS Dark Theme)</DisplayName>
     <Description xml:space="preserve">Dark/Night theme for 'Visual Studio 2022'. C++, C#, ReSharper...</Description>
     <PreviewImage>vszero-_mini.png</PreviewImage>

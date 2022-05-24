@@ -4482,13 +4482,13 @@
         <Background Type="CT_RAW" Source="FF101216" />
       </Color>
       <Color Name="CommandBarCheckBoxMouseOver">
-        <Background Type="CT_RAW" Source="FF52607A" />
+        <Background Type="CT_RAW" Source="FFC2C8D6" />
       </Color>
       <Color Name="CommandBarDragHandle">
-        <Background Type="CT_RAW" Source="FF52607A" />
+        <Background Type="CT_RAW" Source="FFC2C8D6" />
       </Color>
       <Color Name="CommandBarDragHandleShadow">
-        <Background Type="CT_RAW" Source="FF52607A" />
+        <Background Type="CT_RAW" Source="FFC2C8D6" />
       </Color>
       <Color Name="CommandBarFrameControlHover">
         <Background Type="CT_RAW" Source="FF101216" />
@@ -4536,11 +4536,11 @@
         <Background Type="CT_RAW" Source="FF101216" />
       </Color>
       <Color Name="CommandBarMenuItemMouseOver">
-        <Background Type="CT_RAW" Source="FF13161B" />
+        <Background Type="CT_RAW" Source="FF16191F" />
         <Foreground Type="CT_RAW" Source="FFC2C8D6" />
       </Color>
       <Color Name="CommandBarMenuItemMouseOverBorder">
-        <Background Type="CT_RAW" Source="FF13161B" />
+        <Background Type="CT_RAW" Source="FF16191F" />
       </Color>
       <Color Name="CommandBarMenuLinkText">
         <Background Type="CT_RAW" Source="FF8398B9" />
@@ -4684,19 +4684,19 @@
         <Background Type="CT_RAW" Source="FFC2C8D6" />
       </Color>
       <Color Name="CommandBarTextHover">
-        <Background Type="CT_RAW" Source="FF52607A" />
-      </Color>
-      <Color Name="CommandBarTextHoverOverSelected">
-        <Background Type="CT_RAW" Source="FF52607A" />
-      </Color>
-      <Color Name="CommandBarTextInactive">
         <Background Type="CT_RAW" Source="FFC2C8D6" />
       </Color>
-      <Color Name="CommandBarTextMouseDown">
+      <Color Name="CommandBarTextHoverOverSelected">
+        <Background Type="CT_RAW" Source="FFC2C8D6" />
+      </Color>
+      <Color Name="CommandBarTextInactive">
         <Background Type="CT_RAW" Source="FF52607A" />
       </Color>
+      <Color Name="CommandBarTextMouseDown">
+        <Background Type="CT_RAW" Source="FFC2C8D6" />
+      </Color>
       <Color Name="CommandBarTextSelected">
-        <Background Type="CT_RAW" Source="FF52607A" />
+        <Background Type="CT_RAW" Source="FFC2C8D6" />
       </Color>
       <Color Name="CommandBarToolBarBorder">
         <Background Type="CT_RAW" Source="FF13161B" />
