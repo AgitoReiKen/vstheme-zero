@@ -13,6 +13,8 @@ X Template(T* x) {
 }
 void GlobalFunction() {}
 
+enum asdasasdsadasdas {  };
+
 union Union
 {
 	int member;

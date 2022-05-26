@@ -3140,7 +3140,7 @@
       </Color>
       <Color Name="ReSharper LiveTemplates Current HotSpot">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFD65C66" />
+        <Foreground Type="CT_RAW" Source="FF2F3541" />
       </Color>
       <Color Name="ReSharper LiveTemplates Current HotSpot mirror">
         <Background Type="CT_INVALID" Source="00000000" />
