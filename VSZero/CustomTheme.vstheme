@@ -1952,7 +1952,7 @@
       </Color>
       <Color Name="CppSuggestedActionFormat">
         <Background Type="CT_INVALID" Source="00101216" />
-        <Foreground Type="CT_RAW" Source="FF278B27" />
+        <Foreground Type="CT_RAW" Source="FF588F3D" />
       </Color>
       <Color Name="CppTypeSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00101216" />
@@ -6053,7 +6053,7 @@
         <Background Type="CT_RAW" Source="FF363639" />
       </Color>
       <Color Name="StartPageTabBackgroundBegin">
-        <Background Type="CT_RAW" Source="FF13161B" />
+        <Background Type="CT_RAW" Source="FF101216" />
       </Color>
       <Color Name="StartPageTabBackgroundEnd">
         <Background Type="CT_RAW" Source="FF13161B" />
@@ -9471,7 +9471,7 @@
         <Foreground Type="CT_RAW" Source="FFC2C8D6" />
       </Color>
       <Color Name="SelectedItemActive">
-        <Background Type="CT_RAW" Source="FF13161B" />
+        <Background Type="CT_RAW" Source="FF16191F" />
         <Foreground Type="CT_RAW" Source="FFC2C8D6" />
       </Color>
       <Color Name="SelectedItemActiveGlyph">

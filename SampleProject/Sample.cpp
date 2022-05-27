@@ -20,6 +20,7 @@ union Union
 	int member;
 	std::string Membase;
 };
+
 enum Enum {
 	ENUM_A MACRO(1, 2),
 	ENUM_B MACRO(2, 0),
@@ -135,6 +136,7 @@ namespace Namespace  {
 				
 				i--; 
 			}
+			
 			if (Chars == "Chars") {
 			}
 			switch (i1) {
