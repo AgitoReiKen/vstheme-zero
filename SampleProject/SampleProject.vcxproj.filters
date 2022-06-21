@@ -5,7 +5,7 @@
     <None Include="test.ini" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Sample.cpp" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="source.h" />

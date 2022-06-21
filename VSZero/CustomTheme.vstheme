@@ -3679,8 +3679,8 @@
         <Foreground Type="CT_RAW" Source="FF85D65C" />
       </Color>
       <Color Name="ReSharper Debugger DataTip">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF101216" />
+        <Background Type="CT_RAW" Source="FF1C2027" />
+        <Foreground Type="CT_RAW" Source="FF8592AD" />
       </Color>
       <Color Name="ReSharper C++ Class Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5852,10 +5852,10 @@
         <Background Type="CT_RAW" Source="66FFFFFF" />
       </Color>
       <Color Name="ScreenTipBackground">
-        <Background Type="CT_RAW" Source="FFFEF3C7" />
+        <Background Type="CT_RAW" Source="FFE0E4EB" />
       </Color>
       <Color Name="ScreenTipBorder">
-        <Background Type="CT_RAW" Source="FFFEF3C7" />
+        <Background Type="CT_RAW" Source="FFE0E4EB" />
       </Color>
       <Color Name="ScreenTipText">
         <Background Type="CT_RAW" Source="FF13161B" />
@@ -6114,7 +6114,7 @@
         <Foreground Type="CT_RAW" Source="FF52607A" />
       </Color>
       <Color Name="StatusBarDebugging">
-        <Background Type="CT_RAW" Source="FFDA3633" />
+        <Background Type="CT_RAW" Source="FF8F3D44" />
         <Foreground Type="CT_RAW" Source="FFE0E4EB" />
       </Color>
       <Color Name="StatusBarDefault">
