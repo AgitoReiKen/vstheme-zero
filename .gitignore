@@ -364,4 +364,10 @@ FodyWeavers.xsd
 output/*.pkgdef
 output/*.vsixmanifest
 output/*.dll
-/VSZero/ReSharper Keys.txt
+
+# Local 
+SampleProject/
+SampleSharp/ 
+*.sln
+*.csproj 
+VSZero/output

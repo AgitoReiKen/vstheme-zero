@@ -3,12 +3,7 @@
 ### [Marketplace](https://marketplace.visualstudio.com/items?itemName=AgitoReiKen.zerovstheme)
 
 ### Recommended fonts: Source Code Pro or Cascadia Code Mono
-
-## About Repo
-`vszero/output/vszero.vsix` -> compiled version
-
-`vszero/customtheme.vstheme` -> theme's source code 
-
+ 
 ## Languages (not indicated items simply weren't checked)
 - C++
 - C#
