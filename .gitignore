@@ -370,4 +370,6 @@ SampleProject/
 SampleSharp/ 
 *.sln
 *.csproj 
-VSZero/output
+VSZero/output/
+ColorRemap/
+/src/output
