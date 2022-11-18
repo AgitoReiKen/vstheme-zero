@@ -20,9 +20,13 @@ using namespace std;
 // blue-3
 // green-3
 // Strong blue
+const char* genZero_LCH_SB_0_Output = "X:/Repositories/VSZeroUtils/GenColors/x64/Release/Zero_LCH_SB_0";
+const char* genZero_LCH_WB_0_Output = "X:/Repositories/VSZeroUtils/GenColors/x64/Release/Zero_LCH_WB_0";
+const char* genZero_LCH_SB_1_Output = "X:/Repositories/VSZeroUtils/GenColors/x64/Release/Zero_LCH_SB_1";
+const char* genZero_LCH_WB_1_Output = "X:/Repositories/VSZeroUtils/GenColors/x64/Release/Zero_LCH_WB_1";
 
 // Strong blue
-void genZeroOne()
+void genZero_LCH_SB_0()
 {
 	// White
 
@@ -94,7 +98,7 @@ void genZeroOne()
 			OkLch(topl - ldif * 2, colorCC, Hue)
 		};
 	};
-	ofstream outputFile("X:/Repositories/VSZero/x64/Debug/tocolors");
+	ofstream outputFile(genZero_LCH_SB_0_Output);
 	{
 		auto red = genColor(25);
 		auto rose = genColor(0);
@@ -144,12 +148,12 @@ void genZeroOne()
 	}
 	outputFile.close();
 #ifndef _DEBUG
-	std::system("cd X:/Repositories/VSZero/x64/Debug & colorremap.exe baseZeroOne.vstheme X:/Repositories/VSZero/src/ZeroOne.vstheme");
+	std::system("cd X:/Repositories/VSZeroUtils/GenColors/x64/Debug & colorremap.exe baseZeroOne.vstheme X:/Repositories/VSZero/src/ZeroOne.vstheme");
 #endif
 }
 
 // Weak blue
-void genZeroTwo()
+void genZero_LCH_WB_0()
 {
 	// White
 
@@ -221,7 +225,7 @@ void genZeroTwo()
 			OkLch(topl - ldif * 2, colorCC, Hue)
 		};
 	};
-	ofstream outputFile("X:/Repositories/VSZero/x64/Debug/tocolors");
+	ofstream outputFile(genZero_LCH_WB_0_Output);
 	{
 		auto red = genColor(25);
 		auto rose = genColor(0);
@@ -271,12 +275,12 @@ void genZeroTwo()
 	}
 	outputFile.close();
 #ifndef _DEBUG
-	std::system("cd X:/Repositories/VSZero/x64/Debug & colorremap.exe baseZeroTwo.vstheme X:/Repositories/VSZero/src/ZeroTwo.vstheme");
+	std::system("cd X:/Repositories/VSZeroUtils/GenColors/x64/Debug & colorremap.exe baseZeroTwo.vstheme X:/Repositories/VSZero/src/ZeroTwo.vstheme");
 #endif
 }
 
 // Ligther Dark | Strong blue
-void genZeroX()
+void genZero_LCH_SB_1()
 {
 	// White
 
@@ -348,7 +352,7 @@ void genZeroX()
 			OkLch(topl - ldif * 2, colorCC, Hue)
 		};
 	};
-	ofstream outputFile("X:/Repositories/VSZero/x64/Debug/tocolors");
+	ofstream outputFile(genZero_LCH_SB_1_Output);
 
 	{
 		auto red = genColor(25);
@@ -400,12 +404,12 @@ void genZeroX()
 
 	outputFile.close();
 #ifndef _DEBUG
-	std::system("cd X:/Repositories/VSZero/x64/Debug & colorremap.exe baseZeroX.vstheme X:/Repositories/VSZero/src/ZeroX.vstheme");
+	std::system("cd X:/Repositories/VSZeroUtils/GenColors/x64/Debug & colorremap.exe baseZeroX.vstheme X:/Repositories/VSZero/src/ZeroX.vstheme");
 #endif
 }
 
 // Lighter Dark | Weak Blue
-void genZeroZ()
+void genZero_LCH_WB_1()
 {
 	// White
 
@@ -477,7 +481,7 @@ void genZeroZ()
 			OkLch(topl - ldif * 2, colorCC, Hue)
 		};
 	};
-	ofstream outputFile("X:/Repositories/VSZero/x64/Debug/tocolors");
+	ofstream outputFile(genZero_LCH_WB_1_Output);
 
 	{
 		auto red = genColor(25);
@@ -529,15 +533,15 @@ void genZeroZ()
 
 	outputFile.close();
 #ifndef _DEBUG
-	std::system("cd X:/Repositories/VSZero/x64/Debug & colorremap.exe baseZeroZ.vstheme X:/Repositories/VSZero/src/ZeroZ.vstheme");
+	std::system("cd X:/Repositories/VSZeroUtils/GenColors/x64/Debug & colorremap.exe baseZeroZ.vstheme X:/Repositories/VSZero/src/ZeroZ.vstheme");
 #endif
 }
 
 int main()
 {
-	genZeroOne();
-	genZeroTwo();
-	genZeroX();
-	genZeroZ();
+	genZero_LCH_SB_0();
+	genZero_LCH_WB_0();
+	genZero_LCH_SB_1();
+	genZero_LCH_WB_1();
 	return 0;
 }

@@ -8,25 +8,37 @@
 using namespace std;
 int main(int argn, char* args[])
 {
-	if (argn != 3)
+	if (argn != 5)
 	{
-		printf("Args != 3 aka no input and/or output specified");
+		printf("Usage: fromColors toColors inputFile outputFile Args != 5 aka no input and/or output specified");
 		return 1;
 	}
 	if (!args[1])
 	{
-		printf("Args[1] aka input file is missing\n");
+		printf("Args[1] aka fromColors file is missing\n");
 		return 1;
 	}
 	if (!args[2])
 	{
-		printf("Args[2] aka output file is missing\n");
+		printf("Args[2] aka toColors file is missing\n");
 		return 1;
 	}
-	ifstream inputFile(args[1]);
-	ofstream outputFile(args[2]);
-	ifstream inputFromColors("fromColors");
-	ifstream inputToColors("toColors");
+	if (!args[3])
+	{
+		printf("Args[3] aka input file is missing\n");
+		return 1;
+	}
+	if (!args[4])
+	{
+		printf("Args[4] aka output file is missing\n");
+		return 1;
+	}
+
+	ifstream inputFromColors(args[1]);
+	ifstream inputToColors(args[2]);
+
+	ifstream inputFile(args[3]);
+	ofstream outputFile(args[4]);
 	if (!inputFile.is_open())
 	{
 		printf("Input file not found\n");

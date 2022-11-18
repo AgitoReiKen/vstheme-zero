@@ -1,0 +1,2 @@
+ColorRemap.exe fromcolors ZERO_LCH_WB_0 Zero.vstheme Zero_LCH_WB_0.vstheme
+pause
