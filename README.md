@@ -12,7 +12,7 @@
 - Markdown
 
 ## Extra
-- 7 Variants (Hsl/OkLch, Str/Weak blue, Darker/Lighter background)
+- 5 Variants (Hsl/OkLch, Str/Weak blue, Darker/Lighter background)
 - Resharper (C++, C#, UE, General Features)
 
 ## Issues
