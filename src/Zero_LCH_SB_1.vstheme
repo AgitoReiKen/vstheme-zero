@@ -3716,7 +3716,7 @@
 			</Color>
 			<Color Name="ReSharper C++ Concept Identifier">
 				<Background Type="CT_INVALID" Source="00000000" />
-				<Foreground Type="CT_RAW" Source="FF181A1F" />
+				<Foreground Type="CT_RAW" Source="FF397EA3" />
 			</Color>
 			<Color Name="ReSharper C++ Class Field Identifier">
 				<Background Type="CT_INVALID" Source="00000000" />
