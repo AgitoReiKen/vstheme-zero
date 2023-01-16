@@ -2383,7 +2383,7 @@
 				<Foreground Type="CT_RAW" Source="223D475C" />
 			</Color>
 			<Color Name="OverviewMarginVisible">
-				<Background Type="CT_RAW" Source="FF13161B" />
+				<Background Type="CT_RAW" Source="FF2F3541" />
 				<Foreground Type="CT_RAW" Source="FF13161B" />
 			</Color>
 			<Color Name="parameter name">
